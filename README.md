@@ -26,7 +26,15 @@ Welcome USER_NAME,
 ### User Stories
 Write your user stories in this section
 ### Wireframes
-Attach wireframes in this section
+Wireframes created using balsamic: 
+WEB VIEW
+![image](https://github.com/user-attachments/assets/673db412-75ae-4740-9e83-6efd3e04fac8)
+![image](https://github.com/user-attachments/assets/24eda3eb-1da5-462b-b8bb-eefb9a04796f)
+APP VIEW
+![image](https://github.com/user-attachments/assets/5ecf95ab-66d0-4268-961d-23b9fd41a3ec)
+
+
+
 ### Typography
 Explain font you've used for your project
 ### Colour Scheme

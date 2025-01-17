@@ -1,4 +1,3 @@
-
 Welcome USER_NAME,
 
 ## Table Of Contents:

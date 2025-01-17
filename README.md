@@ -1,4 +1,4 @@
-Welcome USER_NAME,
+Welcome Anastasiya McAvoy,
 
 ## Table Of Contents:
 1. [Design & Planning](#design-&-planning)

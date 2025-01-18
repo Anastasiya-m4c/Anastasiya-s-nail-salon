@@ -18,3 +18,11 @@ h3 {
 #navbar {
     background-color: #B79FAD;
 }
+
+/*hero*/
+#hero {
+    background: url("../images/sarah-cervantes-ZUUmmpbwKjM-unsplash.jpg") no-repeat center center/cover;
+    position: relative;
+    height: 500px;
+    width: 100%;
+}

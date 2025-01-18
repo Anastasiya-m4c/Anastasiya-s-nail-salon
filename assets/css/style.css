@@ -60,13 +60,6 @@ h3 {
 
 /*services*/
 
-#services {
-    direction: flex;
-}
-
-#services .card {
-    margin: 0.5rem;
-}
 
 /*grid visualisation CSS for testing */
   .container, 

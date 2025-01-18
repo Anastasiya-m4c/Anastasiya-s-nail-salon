@@ -60,8 +60,9 @@ h3 {
 
 /*services*/
 
-.card {
-    padding: 4;
+
+#services .card {
+    margin: 0.5rem;
 }
 
 /*grid visualisation CSS for testing */
@@ -70,3 +71,4 @@ h3 {
     border: 2px solid black;
   } 
  
+

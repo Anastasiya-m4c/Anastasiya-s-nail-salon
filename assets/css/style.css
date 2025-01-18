@@ -1,6 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
+    background-color: #F7F5F5;
+    font-family: "Montserrat", sans-serif;
+    color: #62605F;
+    display: flex;
+    flex-direction: column;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Dancing Script", sans-serif;
+}
+
+/*navbar*/
+#navbar {
     background-color: #B79FAD;
-    font-family: "Dancing+Script";
 }

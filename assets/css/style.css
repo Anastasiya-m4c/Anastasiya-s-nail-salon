@@ -7,12 +7,13 @@ body {
     display: flex;
     flex-direction: column;
 }
-
+/*
 h1,
 h2,
 h3 {
     font-family: "Dancing Script", sans-serif;
 }
+    */
 
 /*navbar*/
 #navbar {
@@ -25,4 +26,41 @@ h3 {
     position: relative;
     height: 500px;
     width: 100%;
+    /*background: rgba(213, 202, 202, 0.3);*/
+   }
+.header {
+    width: auto;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #62605F;
+   /*include font-size(4rem);*/
 }
+.mark, mark {
+    color:#62605F;
+    background-color: rgba(213, 202, 202, 0.7);
+}
+
+.header_button {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.custom_button {
+    background-color: #B79FAD;
+    color: #F7F5F5;
+    border: #A27E81;
+}
+
+.custom_button:hover {
+    background-color: #A27E81;
+    color: #F7F5F5;
+}
+
+
+/*grid visualisation CSS for testing */
+  .container, 
+  .row {
+    border: 2px solid black;
+  } 
+ 

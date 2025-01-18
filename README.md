@@ -160,7 +160,9 @@ List of used resources for your website (text, images, snippets of code, project
   Photo by Tiko Giorgadze on StockSnap <a href="https://stocksnap.io/photo/people-woman-EYUL67K1U8">Photo</a> by <a href="https://stocksnap.io/author/50709">Tiko Giorgadze</a> on <a href="https://stocksnap.io">StockSnap</a>
   -pixels.com:
    -Kristina Paukshtite,  Valeria Boltneva, Lisa Fotios, ttonbro studio, Adrienne Andersen, cottonbro studio, solod_sha, Brandon Richardson, Kaboompics.com
-  
+   -Photo by Rune Enstad, Giorgio Trovato  on Unsplash
+
+
   - 
   
   - Acknowledgment

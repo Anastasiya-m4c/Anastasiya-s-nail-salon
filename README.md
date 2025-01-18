@@ -161,6 +161,7 @@ List of used resources for your website (text, images, snippets of code, project
   -pixels.com:
    -Kristina Paukshtite,  Valeria Boltneva, Lisa Fotios, ttonbro studio, Adrienne Andersen, cottonbro studio, solod_sha, Brandon Richardson, Kaboompics.com
    -Photo by Rune Enstad, Giorgio Trovato  on Unsplash
+    -pixabay by andreas160578
 
 
   - 

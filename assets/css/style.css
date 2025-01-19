@@ -17,7 +17,9 @@ h3 {
     */
 
 /*navbar*/
-#navbar {
+#navbar * {
+    padding-top: 0;
+    padding-bottom: 0;
     background-color: #B79FAD;
 }
 
@@ -28,17 +30,20 @@ h3 {
     height: 500px;
     width: 100%;
     /*background: rgba(213, 202, 202, 0.3);*/
-   }
-.header {
+}
+
+.salon_name {
     width: auto;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
     color: #62605F;
-   /*include font-size(4rem);*/
+    /*include font-size(4rem);*/
 }
-.mark, mark {
-    color:#62605F;
+
+.mark,
+mark {
+    color: #62605F;
     background-color: rgba(213, 202, 202, 0.7);
 }
 
@@ -58,8 +63,12 @@ h3 {
     color: #F7F5F5;
 }
 
-/*services*/
+/*services
 
+#services {
+    display: flex;
+    flex-direction: column;
+}  */
 
 /*footer*/
 
@@ -67,12 +76,14 @@ h3 {
     background-color: #B79FAD;
     color: #F7F5F5;
 }
+
 .social-media-links * {
     font-size: 3rem;
     margin-top: 3rem;
     padding: 15px;
     color: #F7F5F5;
 }
+
 .social-media-links:hover {
     color: #A27E81;
 }
@@ -81,13 +92,16 @@ h3 {
     background-color: transparent;
     border: #B79FAD;
 }
- .row {
+
+.row {
     padding-top: 20px;
- }
+}
+
 .opening-times {
     width: fit-content;
     margin-top: 2rem;
 }
+
 .address {
     margin-top: 2rem;
 }

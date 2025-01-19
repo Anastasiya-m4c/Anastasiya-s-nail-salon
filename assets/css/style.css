@@ -93,10 +93,6 @@ mark {
     border: #B79FAD;
 }
 
-.row {
-    padding-top: 20px;
-}
-
 .opening-times {
     width: fit-content;
     margin-top: 2rem;
@@ -105,3 +101,9 @@ mark {
 .address {
     margin-top: 2rem;
 }
+
+/*grid visualisation CSS for testing taken fromm broadwalk games walthrough */
+  .container, 
+  .row {
+    border: 2px solid black;
+  } 

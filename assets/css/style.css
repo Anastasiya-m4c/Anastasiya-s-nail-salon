@@ -31,9 +31,6 @@ h3 {
     width: 100%;
  }
 
- .image-overlay {
-    opacity: 0.5;
- }
 
 .salon_name {
     width: auto;
@@ -69,8 +66,9 @@ mark {
 /*services*/
 
 .card-text {
-    min-height: 92px;
-} 
+    min-height: 142px;
+    /*text needs centring*/
+  } 
 
 /*footer*/
 

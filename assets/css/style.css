@@ -25,12 +25,15 @@ h3 {
 
 /*hero*/
 #hero {
-    background-image: url("../images/sarah-cervantes-ZUUmmpbwKjM-unsplash.jpg") no-repeat center center/cover, rgba(213, 202, 202, 0.7);
+    background: url("/assets/images/sarah-cervantes-ZUUmmpbwKjM-unsplash.jpg") no-repeat center center/cover;
     position: relative;
     height: 500px;
     width: 100%;
  }
 
+ .image-overlay {
+    opacity: 0.5;
+ }
 
 .salon_name {
     width: auto;
@@ -66,8 +69,8 @@ mark {
 /*services*/
 
 .card-text {
-    min-height: 500px;
-} /*this is not being applied - why? */
+    min-height: 92px;
+} 
 
 /*footer*/
 
@@ -100,9 +103,3 @@ mark {
 .address {
     margin-top: 2rem;
 }
-
-/*grid visualisation CSS for testing taken fromm broadwalk games walthrough */
-  .container, 
-  .row, col {
-    border: 2px solid black;
-  } 

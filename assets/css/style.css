@@ -32,9 +32,6 @@ h3 {
     /*background: rgba(213, 202, 202, 0.3);*/
 }
 
-img {
-    opacity: 0.5;
-}
 
 .salon_name {
     width: auto;
@@ -74,6 +71,9 @@ mark {
     flex-direction: column;
 }  */
 
+#services .card-text{
+    min-height: 100px;
+}
 
 /*footer*/
 

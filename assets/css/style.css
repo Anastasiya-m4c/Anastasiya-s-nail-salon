@@ -32,6 +32,10 @@ h3 {
     /*background: rgba(213, 202, 202, 0.3);*/
 }
 
+img {
+    opacity: 0.5;
+}
+
 .salon_name {
     width: auto;
     text-align: center;
@@ -70,6 +74,7 @@ mark {
     flex-direction: column;
 }  */
 
+
 /*footer*/
 
 #contact {
@@ -104,6 +109,6 @@ mark {
 
 /*grid visualisation CSS for testing taken fromm broadwalk games walthrough */
   .container, 
-  .row {
+  .row, col {
     border: 2px solid black;
   } 

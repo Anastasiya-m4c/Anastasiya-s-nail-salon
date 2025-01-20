@@ -25,12 +25,11 @@ h3 {
 
 /*hero*/
 #hero {
-    background: url("../images/sarah-cervantes-ZUUmmpbwKjM-unsplash.jpg") no-repeat center center/cover;
+    background-image: url("../images/sarah-cervantes-ZUUmmpbwKjM-unsplash.jpg") no-repeat center center/cover, rgba(213, 202, 202, 0.7);
     position: relative;
     height: 500px;
     width: 100%;
-    /*background: rgba(213, 202, 202, 0.3);*/
-}
+ }
 
 
 .salon_name {
@@ -64,16 +63,11 @@ mark {
     color: #F7F5F5;
 }
 
-/*services
+/*services*/
 
-#services {
-    display: flex;
-    flex-direction: column;
-}  */
-
-#services .card-text{
-    min-height: 100px;
-}
+.card-text {
+    min-height: 500px;
+} /*this is not being applied - why? */
 
 /*footer*/
 

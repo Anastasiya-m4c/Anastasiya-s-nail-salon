@@ -82,7 +82,8 @@ mark {
 
 .social-media-links * {
     font-size: 2rem;
-    margin-top: 6rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     padding: 7px;
     color: #F7F5F5;
 }

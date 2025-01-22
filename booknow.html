@@ -37,7 +37,6 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mb-2 mb-lg-0 ms-auto">
-                        <!--me-auto-->
                         <li class="nav-item">
                             <a class="nav-link" href="index.html">Home</a>
                         </li>
@@ -54,70 +53,76 @@
     </header>
 
     <main>
-    <!-- form taken brom broadwalk games and ammnded to fit my requirments -->
-    <section id="booking-form" class="container section">
-        <div class="row justify-content-center">
-            <div class="col-12 col-md-8">
-                <h2>Get in-touch!</h2>
-                <p>Please complete contact from bellow with your preffered contact time and we will come back to you as soon as possible.</p>
-                <form action="success.html" method="GET">
-                    <div class="row ">
-                        <div class="col-12 col-lg-6 mb-3">
-                            <label for="name" class="form-label">Name</label>
-                            <input class="form-control" id="name" name="name" type="text" required>
-                        </div>
-                        <div class="col-12 col-lg-6 mb-3">
-                            <label for="email" class="form-label">Email</label>
-                            <input class="form-control" id="email" name="email" type="email" required>
-                        </div>
-                        <div class="col-12 col-lg-6 mb-3">
-                            <label for="phone" class="form-label">Phone number</label>
-                            <input class="form-control" id="phone" name="phone" type="number" required>
-                        </div>
-                        
-                        
-                        <label for="form-check" class="form-label">Please tell us about your reason for contact</label>
-                        <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="booking" id="flexCheckDefault">
-                            <label class="form-check-label" for="flexCheckDefault">
-                              A booking
-                            </label>
-                          </div>
-                          <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="enquiry" id="flexCheckChecked" checked>
-                            <label class="form-check-label" for="flexCheckChecked">
-                              An enquiry 
-                            </label>
-                          </div>
-                          <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="feedback" id="flexCheckChecked" checked>
-                            <label class="form-check-label" for="flexCheckChecked">
-                              Feedback 
-                            </label>
-                          </div>
-                          <div class="form-check">
-                            <input class="form-check-input" type="checkbox" value="other" id="flexCheckChecked" checked>
-                            <label class="form-check-label" for="flexCheckChecked">
-                              Other 
-                            </label>
-                          </div>
-                          <br>
-                        <div class="col-12 mb-3">
-                            <label for="contact_time" class="form-label">Preffered contact time</label>
-                            <textarea class="form-control" rows="2" id="contact_time" name="message" required></textarea>
-                        </div>
-                        <div class="col-12 mb-3">
-                            <label for="message" class="form-label">Message</label>
-                            <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
-                        </div>
-                    </div>
+        <!-- form taken brom broadwalk games and ammnded to fit my requirments -->
+        <section id="booking-form" class="container section">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8">
+                    <h2>Get in-touch!</h2>
+                    <p>Please complete contact from bellow with your preffered contact time and we will come back to you
+                        as soon as possible.</p>
+                    <form action="success.html" method="GET">
+                        <div class="row ">
+                            <div class="col-12 col-lg-6 mb-3">
+                                <label for="name" class="form-label">Name</label>
+                                <input class="form-control" id="name" name="name" type="text" required>
+                            </div>
+                            <div class="col-12 col-lg-6 mb-3">
+                                <label for="email" class="form-label">Email</label>
+                                <input class="form-control" id="email" name="email" type="email" required>
+                            </div>
+                            <div class="col-12 col-lg-6 mb-3">
+                                <label for="phone" class="form-label">Phone number</label>
+                                <input class="form-control" id="phone" name="phone" type="number" required>
+                            </div>
 
-                    <button type="submit" class="btn custom_button">Submit</button>
-                </form>
+
+                            <label for="form-check" class="form-label">Please tell us about your reason for
+                                contact</label>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="booking" id="flexCheckDefault">
+                                <label class="form-check-label" for="flexCheckDefault">
+                                    A booking
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="enquiry" id="flexCheckChecked"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">
+                                    An enquiry
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="feedback" id="flexCheckChecked"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">
+                                    Feedback
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="other" id="flexCheckChecked"
+                                    checked>
+                                <label class="form-check-label" for="flexCheckChecked">
+                                    Other
+                                </label>
+                            </div>
+                            <br>
+                            <div class="col-12 mb-3">
+                                <label for="contact_time" class="form-label">Preffered contact time</label>
+                                <textarea class="form-control" rows="2" id="contact_time" name="message"
+                                    required></textarea>
+                            </div>
+                            <div class="col-12 mb-3">
+                                <label for="message" class="form-label">Message</label>
+                                <textarea class="form-control" rows="6" id="message" name="message" required></textarea>
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn custom_button">Submit</button>
+                    </form>
+                </div>
             </div>
-        </div>
-    </section>
-    <br>
+        </section>
+        <br>
     </main>
 
     <!--contact image section-->
@@ -132,8 +137,10 @@
                             Main street <br>
                             Swansea <br>
                             SA1 2XX<br>
-                            <i class="fa-solid fa-location-dot"></i>
-                            <!--link not working, need fixing-->
+                            <div class="map-link">
+                                <a href="https://www.google.co.uk/maps/@52.8382004,-2.3278149,6z"
+                                    rel="noopener" aria-label="google maps, opens in new tab" target="_blank"><i
+                                        class="fa-solid fa-location-dot"></i></a></div>
                         </address>
                     </div>
                     <div class="col col-12 col-md-4 social-media-links">

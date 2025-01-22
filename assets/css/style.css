@@ -8,8 +8,8 @@ body {
     flex-direction: column;
 }
 
-h1, 
-h2, 
+h1,
+h2,
 h3 {
     color: #a37479;
 }
@@ -28,7 +28,7 @@ h3 {
     position: relative;
     height: 500px;
     width: 100%;
- }
+}
 
 
 .salon_name {
@@ -68,13 +68,13 @@ mark {
     min-height: 142px;
     color: #62605F;
     /*text needs centring*/
-  } 
+}
 
-  .card > img {
+.card>img {
     height: 443px;
 }
 
-.card-title  {
+.card-title {
     color: #a37479;
 }
 
@@ -89,18 +89,18 @@ mark {
     display: block;
     min-height: 1.5rem;
     padding-left: 2.5em;
-    margin-bottom: 1.125rem; 
+    margin-bottom: 1.125rem;
 }
 
 .form-check-input:checked {
     background-color: #B79FAD;
     border-color: #A27E81;
-  }
+}
 
 /*success*/
 #success {
-margin-top: 4rem;
-margin-bottom: auto;
+    margin-top: 4rem;
+    margin-bottom: auto;
 }
 
 /*footer*/
@@ -128,3 +128,11 @@ margin-bottom: auto;
     border: #B79FAD;
 }
 
+.map-link {
+    color: #F7F5F5;
+    font-size: 2 rem;
+    margin-top: 1rem;
+}
+.map-link:hover {
+    color: #A27E81;
+}

@@ -86,7 +86,11 @@ mark {
     min-height: 1.5rem;
     padding-left: 2.5em;
     margin-bottom: 1.125rem; 
-    color: ;
+}
+
+.form-check-input:checked {
+    background-color: #B79FAD;
+    border-color: #A27E81;
 }
 
 /*footer*/

@@ -73,6 +73,13 @@ mark {
   .card > img {
     height: 443px;
 }
+
+/*booking form*/
+
+#booking-form {
+    margin-top: 30px;
+}
+
 /*footer*/
 
 #contact {

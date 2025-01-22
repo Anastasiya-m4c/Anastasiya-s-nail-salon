@@ -119,7 +119,7 @@ mark {
     color: #F7F5F5;
 }
 
-.social-media-links:hover {
+.social-media-links:hover * {
     color: #A27E81;
 }
 
@@ -128,11 +128,11 @@ mark {
     border: #B79FAD;
 }
 
-.map-link {
+.map-link * {
     color: #F7F5F5;
     font-size: 2 rem;
     margin-top: 1rem;
 }
-.map-link:hover {
+.map-link:hover * {
     color: #A27E81;
 }

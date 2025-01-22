@@ -8,13 +8,11 @@ body {
     flex-direction: column;
 }
 
-/*
-h1,
-h2,
+h1, 
+h2, 
 h3 {
-    font-family: "Dancing Script", sans-serif;
+    color: #a37479;
 }
-    */
 
 /*navbar*/
 #navbar * {
@@ -68,11 +66,16 @@ mark {
 
 .card-text {
     min-height: 142px;
+    color: #62605F;
     /*text needs centring*/
   } 
 
   .card > img {
     height: 443px;
+}
+
+.card-title  {
+    color: #a37479;
 }
 
 /*booking form*/
@@ -119,3 +122,4 @@ mark {
     background-color: transparent;
     border: #B79FAD;
 }
+

@@ -127,7 +127,8 @@ Check compatability with different browsers
 ### Responsiveness
 Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 ### Code Validation
-Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
+![image](https://github.com/user-attachments/assets/d0f7913e-89fc-4598-ae1d-bb75de418029)
+
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
 User Story |  Test | Pass

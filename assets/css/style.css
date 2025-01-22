@@ -21,6 +21,7 @@ h3 {
     padding-top: 0;
     padding-bottom: 0;
     background-color: #B79FAD;
+    border-radius: .25em;
 }
 
 /*hero*/
@@ -91,6 +92,7 @@ mark {
 .form-check-input:checked {
     background-color: #B79FAD;
     border-color: #A27E81;
+
 }
 
 /*footer*/
@@ -98,6 +100,7 @@ mark {
 #contact {
     background-color: #B79FAD;
     color: #F7F5F5;
+    border-radius: .25em;
 }
 
 .social-media-links * {

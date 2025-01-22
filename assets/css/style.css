@@ -109,6 +109,9 @@ mark {
     line-height: 1em;
 }
 
+.hidden {
+    display: none;
+}
 
 /*footer*/
 
@@ -143,3 +146,25 @@ mark {
 .map-link:hover * {
     color: #A27E81;
 }
+
+/*media query large scrren*/ 
+@media screen and (min-width: 768px) {
+    #photos {
+        column-count: 2;
+        gap: 0;
+    }
+}
+
+/*media query med scrren*/
+@media screen and (min-width: 768px) {
+    #photos {
+        column-count: 3;
+    }
+} 
+
+/*media query large scrren*/
+@media screen and (min-width: 1200px) {
+    #photos {
+        column-count: 4;
+    }
+} 

@@ -97,6 +97,11 @@ mark {
     border-color: #A27E81;
   }
 
+/*success*/
+#success {
+margin-top: 4rem;
+margin-bottom: auto;
+}
 
 /*footer*/
 

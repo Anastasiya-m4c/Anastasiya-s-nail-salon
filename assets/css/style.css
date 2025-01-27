@@ -24,13 +24,12 @@ h3 {
 
 /*hero*/
 #hero {
-    background: url("/assets/images/sarah-cervantes-ZUUmmpbwKjM-unsplash.jpg") no-repeat center center/cover;
+    background: url("/assets/images/StockSnap_CDE7ZLPS70.jpg") no-repeat center center/cover;
     position: relative;
     height: 500px;
     width: 100%;
     opacity: 0.7;
 }
-
 
 .salon_name {
     width: auto;

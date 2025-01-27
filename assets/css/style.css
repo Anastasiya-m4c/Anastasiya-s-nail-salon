@@ -8,14 +8,7 @@ body {
     flex-direction: column;
 }
 
-h2 {
-    color: #524f4e;
-}
 
-
-h3 {
-    color: #a37479;
-}
 
 /*navbar*/
 #navbar * {
@@ -39,13 +32,12 @@ h3 {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
-    color: #62605F;
+    color: #484543;
     /*include font-size(4rem);*/
 }
 
 .mark,
 mark {
-    color: #484543;
     background-color: rgba(213, 202, 202, 0.4);
 }
 

@@ -1,8 +1,8 @@
 Welcome Anastasiya McAvoy,
 
-Code Institute - Milestone project 1: User-Centric Frontend Development - Anastasiya's nail salon
+## Code Institute - Milestone project 1: User-Centric Frontend Development - Anastasiya's nail salon
 
-## About
+### About
 Anastasiya’s Nail Salon is a newly opened small independent business that would benefit from online presence to increase visibility, showcase a gallery of work & various services offered. 
 As well as an enquiry form for existing or new customers.  
 

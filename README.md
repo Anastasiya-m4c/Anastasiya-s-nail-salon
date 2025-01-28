@@ -153,7 +153,22 @@ paste here you user story | what is visible to the user and what action they sho
 - and attach screenshot
 
 ## Bugs
-List of bugs and how did you fix them
+
+- Issue: site.manifest file error in dev tools - failed to load resource: the server responded with a status of 404 ()  
+- Cause: broken file path, needed help of a tutor to understand the error. 
+- Solution: Updated to a relative file path.  
+
+- Issue: Footer spacing looks odd for small screens 
+- Cause: Sapcing issues as content is different size but padding only looks good on big screen
+- Solution: applying card sizes for different screens
+
+- Issue: Button turns blue on click 
+- Cause: Boostrap default styles 
+- Solution: Fixed by removing btn primary
+
+- Issue: Gallery text in the nav is not highlighted when on gallery page 
+- Cause: Active class is in the worng place, copy and paste error.
+- Solution: Added active class and aria cuttent to correct page. 
 
 ## Deployment
 #### Creating Repository on GitHub

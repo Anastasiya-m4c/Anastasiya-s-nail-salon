@@ -176,8 +176,8 @@ The site was deployed to Github Pages using the following method:
 This project has been hevaily influenced by code institute learning resourses and LMS content and use of boostrap systems. 
 
 ### Images:
--StockSnap, Pixels.com, kamboompics.com, unsplash & pixabay.  
--Photo's by:
+StockSnap, Pixels.com, kamboompics.com, unsplash & pixabay.  
+Photo's by:
 Matt Moloney, Tiko Giorgadze, Kristina Paukshtite,  Valeria Boltneva, Lisa Fotios, ttonbro studio, Adrienne Andersen, cottonbro studio, solod_sha, Brandon Richardson, Rune Enstad, Giorgio Trovato, Andreas160578, Chelson Tamares, Viktorya  Sergeeva, Andrea Mosti, Artem Podrez.
 
 ------

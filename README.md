@@ -1,5 +1,15 @@
 Welcome Anastasiya McAvoy,
 
+Code Institute - Milestone project 1: User-Centric Frontend Development - Anastasiya's nail salon
+
+## About
+Anastasiya’s Nail Salon is a newly opened small independent business that would benefit from online presence to increase visibility, showcase a gallery of work & various services offered. 
+As well as an enquiry form for existing or new customers.  
+
+View live website [here] (https://anastasiya-m4c.github.io/Anastasiya-s-nail-salon/)
+
+![image from am I responsive to demonstrate responcivmess on the site in all screen sizes](https://github.com/user-attachments/assets/07d44c09-295f-4439-a406-8313a54916b5)
+
 ## Table Of Contents:
 1. [Design & Planning](#design-&-planning)
     * [User Stories](#user-stories)
@@ -7,7 +17,6 @@ Welcome Anastasiya McAvoy,
     * [Typography](#typography)
     * [Colour Scheme](#colour-scheme)
 
-    
 2. [Features](#features)
     * [Navigation](#Navigation)
     * [Footer](#Footer)
@@ -20,14 +29,9 @@ Welcome Anastasiya McAvoy,
 6. [Deployment](#deployment)
 7. [Credits](#credits)
 
-## About:
-
-Anastasiya’s Nail Salon is a newly opened small independent business that would benefit from online presence to increase visibility, showcase a gallery of work & various services offered. 
-As well as an enquiry form for existing or new customers.  
-
 ### User Stories
 
-# 1. User Story: Browse Nail Services
+### 1. User Story: Browse Nail Service
 As a customer,
 I want to browse the various nail services offered by the salon,
 So that I can choose the one that best fits my needs.
@@ -35,7 +39,7 @@ Acceptance Criteria:
 Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.).
 Each service includes pricing, duration, and any special offers.
 
-# 2. User Story: Contact & how to find us
+### 2. User Story: Contact & how to find us
 As a customer,
 I want to find contact details, address and parking information about the salon,
 So that I can find the salon and contact the salon if I need to.
@@ -44,7 +48,7 @@ Users can view a contact number & email address of the salon.
 Users can be directed to a map to find the salon. 
 Users can see information about parking. 
 
-# 3. User Story: Make an enquiry or book a Nail Appointment
+### 3. User Story: Make an enquiry or book a Nail Appointment
 As a customer,
 I want to make an inquiry about a service or contact the salon about booking a nail appointment.
 So that I can receive a call back or an email regarding my enquiry. 
@@ -54,21 +58,21 @@ Users must have a free text message where they can leave a message or details of
 All fields must be required. 
 From should have a submit button and be responsive so that is can be viewed of devices with various screen sizes. 
 
-# 4. User Story: Gallery
+### 4. User Story: Gallery
 As a customer,
 I want to see gallery of work,
 So that I can decide if I like the work and if the salon style suits my needs.
 Acceptance Criteria:
 A responsive gallery of images that can be viewed on devices with various screen sizes. 
 
-# 5. User Story: Success message!
+### 5. User Story: Success message!
 As a potential customer,
 I want To receive a confirmation that my form has been submitted,
 So that I know that my inquiry has been successful. 
 Acceptance Criteria:
 The website displays a success message with user information once the enquery form has been submitted. 
 
-# 4. User Story: View Salon Reviews
+### 4. User Story: View Salon Reviews
 As a potential customer,
 I want to read reviews from other clients about their salon experience,
 So that I can make an informed decision before booking my appointment.
@@ -77,7 +81,7 @@ The website displays customer reviews and ratings for the salon.
 Reviews include feedback on service quality, staff, ambiance, etc.
 Users can filter reviews by service type or rating.
 
-# 6. User Story: Sign Up for Loyalty Program
+### 6. User Story: Sign Up for Loyalty Program
 As a regular customer,
 I want to sign up for a loyalty program,
 So that I can earn rewards and discounts for future appointments.
@@ -86,21 +90,18 @@ Users can sign up for the loyalty program.
 The program tracks points or rewards based on visits or money spent.
 Users can redeem loyalty rewards directly through the website when booking future services.
 
-
 ### Wireframes
 Wireframes created using balsamic: 
 WEB VIEW
-![image](https://github.com/user-attachments/assets/673db412-75ae-4740-9e83-6efd3e04fac8)
-![image](https://github.com/user-attachments/assets/24eda3eb-1da5-462b-b8bb-eefb9a04796f)
+![web view wireframe image 1](https://github.com/user-attachments/assets/673db412-75ae-4740-9e83-6efd3e04fac8)
+![web view wireframe image 2](https://github.com/user-attachments/assets/24eda3eb-1da5-462b-b8bb-eefb9a04796f)
 APP VIEW
-![image](https://github.com/user-attachments/assets/5ecf95ab-66d0-4268-961d-23b9fd41a3ec)
-
-
+![app view wireframe image](https://github.com/user-attachments/assets/5ecf95ab-66d0-4268-961d-23b9fd41a3ec)
 
 ### Typography
-Explain font you've used for your project
-### Colour Scheme
+I have researched fonts that are most comonly ussed in the beauty industry and have settled on Montserrat imported from google fonts. 
 
+### Colour Scheme
 ![image](https://github.com/user-attachments/assets/d9f3e43a-c592-48eb-b937-6e6dd0d53dff)
 ![image](https://github.com/user-attachments/assets/04a162a6-edef-4f96-8b68-f6c92828e97e)
 ![image](https://github.com/user-attachments/assets/8bdc41c4-6be5-4791-9b65-f84d44c34f22)
@@ -112,12 +113,25 @@ Explain your features on the website,(navigation, pages, links, forms.....)
 ### Navigation
 ### Footer
 ### Other features
+
 ## Technologies Used
-List of technologies used for your project...
-HTML
-CSS
-Bootstrap
-Github
+### Languages Used
+HTML - To create a basic site.
+CSS - To create custom styles and make a responsive site. 
+Bootstrap - For consistent styling and imroved responsivness. 
+JavaScript - To improve the navigation bar in mobile view.
+
+### Frameworks Libraries and Programmes Used
+Font Awesome - for icons.
+Favicon.io - to create a favicon.
+Colormind.io - to create a colour scheeme.
+Google Fonts - for custome font size that fits with the of the indusrtry.
+GitHub - to create board, host repository & deploy site.
+GitPod - to develop project and organise version control.
+Devtools - for debugging and adjusting layouts.  
+Lighthouse - for testing especially performance realted issues.
+Wave evaluation tool - for any accesibility related issues. 
+
 ## Testing
 Important part of your README!!!
 ### Google's Lighthouse Performance
@@ -145,6 +159,7 @@ List of bugs and how did you fix them
 - First make sure you are signed into [Github](https://github.com/) and go to the code institutes template, which can be found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
 - Then click on **use this template** and select **Create a new repository** from the drop-down. Enter the name for the repository and click **Create repository from template**.
 - Once the repository was created, I clicked the green **gitpod** button to create a workspace in gitpod so that I could write the code for the site.
+  
 #### Deloying on Github
 The site was deployed to Github Pages using the following method:
 - Go to the Github repository.
@@ -153,22 +168,16 @@ The site was deployed to Github Pages using the following method:
 - Click 'save'.
 
 ## Credits
-List of used resources for your website (text, images, snippets of code, projects....)
-  - Code & Text Content
-  
-  - Photo's:
-  - Photo by Matt Moloney on StockSnap -<a href="https://stocksnap.io/photo/female-nails-CDE7ZLPS70">Photo</a> by <a href="https://stocksnap.io/author/mattmoloney">Matt Moloney</a> on <a href="https://stocksnap.io">StockSnap</a>
-  Photo by Tiko Giorgadze on StockSnap <a href="https://stocksnap.io/photo/people-woman-EYUL67K1U8">Photo</a> by <a href="https://stocksnap.io/author/50709">Tiko Giorgadze</a> on <a href="https://stocksnap.io">StockSnap</a>
-  -pixels.com:
-   -Kristina Paukshtite,  Valeria Boltneva, Lisa Fotios, ttonbro studio, Adrienne Andersen, cottonbro studio, solod_sha, Brandon Richardson, Kaboompics.com
-   -Photo by Rune Enstad, Giorgio Trovato  on Unsplash
-    -pixabay by andreas160578
+### Special thanks: 
+David Bowers - for mentoring & general support and motivation and help to get brilliant ideas flowwing. 
+Marco - for support & continuous guidence.
+Kyle - supportive husband by taking on my slack to allow me the time to create this project and for not letting me give up.
 
+### List of used resources:
+This project has been hevaily influenced by code institute learning resourses and LMS content and use of boostrap systems. 
 
-  - 
-  
-  - Acknowledgment
-    - acknowledgment to mentors, peers, tutors, friends, family, facilitator (who ever contributed and helped with the project)
-
+### Images:
+StockSnap, Pixels.com, kamboompics.com, unsplash & pixabay.  
+Photo's by Matt Moloney, Tiko Giorgadze, Kristina Paukshtite,  Valeria Boltneva, Lisa Fotios, ttonbro studio, Adrienne Andersen, cottonbro studio, solod_sha, Brandon Richardson, Rune Enstad, Giorgio Trovato, Andreas160578, Chelson Tamares, Viktorya  Sergeeva, Andrea Mosti, Artem Podrez.
 
 ------

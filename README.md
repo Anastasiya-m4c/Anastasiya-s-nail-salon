@@ -116,21 +116,21 @@ Explain your features on the website,(navigation, pages, links, forms.....)
 
 ## Technologies Used
 ### Languages Used
-HTML - To create a basic site.
-CSS - To create custom styles and make a responsive site. 
-Bootstrap - For consistent styling and imroved responsivness. 
-JavaScript - To improve the navigation bar in mobile view.
+- HTML - To create a basic site.
+- CSS - To create custom styles and make a responsive site. 
+- Bootstrap - For consistent styling and imroved responsivness. 
+- JavaScript - To improve the navigation bar in mobile view.
 
 ### Frameworks Libraries and Programmes Used
-Font Awesome - for icons.
-Favicon.io - to create a favicon.
-Colormind.io - to create a colour scheeme.
-Google Fonts - for custome font size that fits with the of the indusrtry.
-GitHub - to create board, host repository & deploy site.
-GitPod - to develop project and organise version control.
-Devtools - for debugging and adjusting layouts.  
-Lighthouse - for testing especially performance realted issues.
-Wave evaluation tool - for any accesibility related issues. 
+- Font Awesome - for icons.
+- Favicon.io - to create a favicon.
+- Colormind.io - to create a colour scheeme.
+- Google Fonts - for custome font size that fits with the of the indusrtry.
+- GitHub - to create board, host repository & deploy site.
+- GitPod - to develop project and organise version control.
+- Devtools - for debugging and adjusting layouts.
+- Lighthouse - for testing especially performance realted issues.
+- Wave evaluation tool - for any accesibility related issues. 
 
 ## Testing
 Important part of your README!!!
@@ -154,30 +154,30 @@ paste here you user story | what is visible to the user and what action they sho
 List of bugs and how did you fix them
 
 ## Deployment
-
 #### Creating Repository on GitHub
-- First make sure you are signed into [Github](https://github.com/) and go to the code institutes template, which can be found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
-- Then click on **use this template** and select **Create a new repository** from the drop-down. Enter the name for the repository and click **Create repository from template**.
-- Once the repository was created, I clicked the green **gitpod** button to create a workspace in gitpod so that I could write the code for the site.
+1. First make sure you are signed into [Github](https://github.com/) and go to the code institutes template, which can be found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
+2. Then click on **use this template** and select **Create a new repository** from the drop-down. Enter the name for the repository and click **Create repository from template**.
+3. Once the repository was created, I clicked the green **gitpod** button to create a workspace in gitpod so that I could write the code for the site.
   
 #### Deloying on Github
 The site was deployed to Github Pages using the following method:
-- Go to the Github repository.
-- Navigate to the 'settings' tab.
-- Using the 'select branch' dropdown menu, choose 'main'.
-- Click 'save'.
+1. Go to the Github repository.
+2. Navigate to the 'settings' tab.
+3. Using the 'select branch' dropdown menu, choose 'main'.
+4. Click 'save'.
 
 ## Credits
 ### Special thanks: 
-David Bowers - for mentoring & general support and motivation and help to get brilliant ideas flowwing. 
-Marco - for support & continuous guidence.
-Kyle - supportive husband by taking on my slack to allow me the time to create this project and for not letting me give up.
+- David Bowers - for mentoring & general support and motivation and help to get brilliant ideas flowwing. 
+- Marco - for support & continuous guidence.
+- Kyle - supportive husband by taking on my slack to allow me the time to create this project and for not letting me give up.
 
 ### List of used resources:
 This project has been hevaily influenced by code institute learning resourses and LMS content and use of boostrap systems. 
 
 ### Images:
-StockSnap, Pixels.com, kamboompics.com, unsplash & pixabay.  
-Photo's by Matt Moloney, Tiko Giorgadze, Kristina Paukshtite,  Valeria Boltneva, Lisa Fotios, ttonbro studio, Adrienne Andersen, cottonbro studio, solod_sha, Brandon Richardson, Rune Enstad, Giorgio Trovato, Andreas160578, Chelson Tamares, Viktorya  Sergeeva, Andrea Mosti, Artem Podrez.
+-StockSnap, Pixels.com, kamboompics.com, unsplash & pixabay.  
+-Photo's by:
+Matt Moloney, Tiko Giorgadze, Kristina Paukshtite,  Valeria Boltneva, Lisa Fotios, ttonbro studio, Adrienne Andersen, cottonbro studio, solod_sha, Brandon Richardson, Rune Enstad, Giorgio Trovato, Andreas160578, Chelson Tamares, Viktorya  Sergeeva, Andrea Mosti, Artem Podrez.
 
 ------

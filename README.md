@@ -185,9 +185,9 @@ The site was deployed to Github Pages using the following method:
 
 ## Credits
 ### Special thanks: 
-- David Bowers - for mentoring & general support and motivation and help to get brilliant ideas flowwing. 
-- Marco - for support & continuous guidence.
-- Kyle - supportive husband by taking on my slack to allow me the time to create this project and for not letting me give up.
+**David Bowers** - for mentoring & general support and motivation and help to get brilliant ideas flowing.  
+**Marco** - for support & continuous guidence.  
+**Kyle** - supportive husband by taking on my slack to allow me the time to create this project and for not letting me give up.  
 
 ### List of used resources:
 This project has been hevaily influenced by code institute learning resourses and LMS content and use of boostrap systems. 

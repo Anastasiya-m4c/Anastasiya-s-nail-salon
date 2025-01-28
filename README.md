@@ -6,7 +6,7 @@ Welcome Anastasiya McAvoy,
 Anastasiya’s Nail Salon is a newly opened small independent business that would benefit from online presence to increase visibility, showcase a gallery of work & various services offered. 
 As well as an enquiry form for existing or new customers.  
 
-View live website [here] (https://anastasiya-m4c.github.io/Anastasiya-s-nail-salon/)
+View live website [here](https://anastasiya-m4c.github.io/Anastasiya-s-nail-salon/)
 
 ![image from am I responsive to demonstrate responcivmess on the site in all screen sizes](https://github.com/user-attachments/assets/07d44c09-295f-4439-a406-8313a54916b5)
 

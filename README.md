@@ -1,12 +1,13 @@
 Welcome Anastasiya McAvoy,
 
-## Code Institute - Milestone project 1: User-Centric Frontend Development - Anastasiya's nail salon
+## Code Institute - Milestone project 1: User-Centric Frontend Development
+## Anastasiya's nail salon
 
 ### About
 Anastasiya’s Nail Salon is a newly opened small independent business that would benefit from online presence to increase visibility, showcase a gallery of work & various services offered. 
 As well as an enquiry form for existing or new customers.  
 
-View live website [here](https://anastasiya-m4c.github.io/Anastasiya-s-nail-salon/)
+View live website [HERE](https://anastasiya-m4c.github.io/Anastasiya-s-nail-salon/)
 
 ![image from am I responsive to demonstrate responcivmess on the site in all screen sizes](https://github.com/user-attachments/assets/07d44c09-295f-4439-a406-8313a54916b5)
 
@@ -130,7 +131,8 @@ Explain your features on the website,(navigation, pages, links, forms.....)
 - GitPod - to develop project and organise version control.
 - Devtools - for debugging and adjusting layouts.
 - Lighthouse - for testing especially performance realted issues.
-- Wave evaluation tool - for any accesibility related issues. 
+- Wave evaluation tool - for any accesibility related issues.
+- Chat GPT - for generating site content. 
 
 ## Testing
 Important part of your README!!!
@@ -174,6 +176,7 @@ The site was deployed to Github Pages using the following method:
 
 ### List of used resources:
 This project has been hevaily influenced by code institute learning resourses and LMS content and use of boostrap systems. 
+Chat GPT used for generating content for the site cards.    
 
 ### Images:
 StockSnap, Pixels.com, kamboompics.com, unsplash & pixabay.  

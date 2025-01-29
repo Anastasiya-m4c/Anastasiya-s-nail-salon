@@ -158,4 +158,7 @@ mark {
     #photos {
         column-count: 4;
     }
+    body {
+        max-width: 1600px;
+    }
 } 

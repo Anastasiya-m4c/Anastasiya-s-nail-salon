@@ -9,7 +9,7 @@ As well as an enquiry form for existing or new customers.
 
 View live website [HERE](https://anastasiya-m4c.github.io/Anastasiya-s-nail-salon/)
 
-![image from am I responsive to demonstrate responcivmess on the site in all screen sizes](https://github.com/user-attachments/assets/07d44c09-295f-4439-a406-8313a54916b5)
+![image from am I responsive to demonstrate responsiveness on the site in all screen sizes](https://github.com/user-attachments/assets/07d44c09-295f-4439-a406-8313a54916b5)
 
 ## Table Of Contents:
 1. [Design & Planning](#design-&-planning)
@@ -57,7 +57,7 @@ Acceptance Criteria:
 Users can enter their name, email address and contact number along with a preferred method of contact. 
 Users must have a free text message where they can leave a message or details of their enquiry for the salon.  
 All fields must be required. 
-From should have a submit button and be responsive so that is can be viewed of devices with various screen sizes. 
+From should have a submit button and be responsive so that it can be viewed on devices with various screen sizes. 
 
 ### 4. User Story: Gallery
 As a customer,
@@ -71,7 +71,7 @@ As a potential customer,
 I want To receive a confirmation that my form has been submitted,
 So that I know that my inquiry has been successful. 
 Acceptance Criteria:
-The website displays a success message with user information once the enquery form has been submitted. 
+The website displays a success message with user information once the enquiry form has been submitted. 
 
 ### 4. User Story: View Salon Reviews
 As a potential customer,
@@ -100,7 +100,7 @@ APP VIEW
 ![app view wireframe image](https://github.com/user-attachments/assets/5ecf95ab-66d0-4268-961d-23b9fd41a3ec)
 
 ### Typography
-I have researched fonts that are most comonly ussed in the beauty industry and have settled on Montserrat imported from google fonts. 
+I have researched fonts that are most commonly used in the beauty industry and have settled on Montserrat imported from google fonts. 
 
 ### Colour Scheme
 ![image](https://github.com/user-attachments/assets/d9f3e43a-c592-48eb-b937-6e6dd0d53dff)
@@ -119,25 +119,34 @@ Explain your features on the website,(navigation, pages, links, forms.....)
 ### Languages Used
 - HTML - To create a basic site.
 - CSS - To create custom styles and make a responsive site. 
-- Bootstrap - For consistent styling and imroved responsivness. 
+- Bootstrap - For consistent styling and improved responsiveness. 
 - JavaScript - To improve the navigation bar in mobile view.
 
 ### Frameworks Libraries and Programmes Used
 - Font Awesome - for icons.
 - Favicon.io - to create a favicon.
-- Colormind.io - to create a colour scheeme.
-- Google Fonts - for custome font size that fits with the of the indusrtry.
+- Colormind.io - to create a colour scheme.
+- Google Fonts - for custom font size that fits with the of the industry.
 - GitHub - to create board, host repository & deploy site.
 - GitPod - to develop project and organise version control.
 - Devtools - for debugging and adjusting layouts.
-- Lighthouse - for testing especially performance realted issues.
-- Wave evaluation tool - for any accesibility related issues.
+- Lighthouse - for testing especially performance related issues.
+- Wave evaluation tool - for any accessibility related issues.
 - Chat GPT - for generating site content. 
 
 ## Testing
 Important part of your README!!!
+
 ### Google's Lighthouse Performance
-Screenshots of certain pages and scores (mobile and desktop)
+![WEB home](https://github.com/user-attachments/assets/615cd8d0-ef55-465e-9e1d-b210936a9727)
+![Mobile home](https://github.com/user-attachments/assets/bbfe0947-2ef1-4d15-87ef-a6459a0866f1)
+![WEB gallery](https://github.com/user-attachments/assets/3670c4b3-d669-467d-833c-af4c8758112f)
+![Mobile gallery](https://github.com/user-attachments/assets/68513298-a27b-4ada-98b9-1d1c80514a1d)
+![WEB book now](https://github.com/user-attachments/assets/f30dd991-7dfd-4b7d-9b00-af8a7c2ba8e5)
+![Mobile book now](https://github.com/user-attachments/assets/2b7e02a4-db66-4cbd-9557-cdc1a90b739c)
+![WEB success](https://github.com/user-attachments/assets/48fd55e8-338a-4141-a63e-7937f91228f8)
+![Mobile success](https://github.com/user-attachments/assets/a853e3b2-246b-487c-9a5b-84594912b78a)
+
 ### Browser Compatibility
 Check compatability with different browsers
 ### Responsiveness
@@ -163,12 +172,12 @@ paste here you user story | what is visible to the user and what action they sho
 *Solution*: applying card sizes for different screens.  
 
 *Issue*: Button turns blue on click.  
-*Cause*: Boostrap default styles.  
+*Cause*: Bootstrap default styles.  
 *Solution*: Fixed by removing btn primary.  
 
 *Issue*: Gallery text in the nav is not highlighted when on gallery page.  
-*Cause*: Active class is in the worng place, copy and paste error.  
-*Solution*: Added active class and aria cuttent to correct page.  
+*Cause*: Active class is in the wrong place, copy and paste error.  
+*Solution*: Added active class and aria current to correct page.  
 
 ## Deployment
 #### Creating Repository on GitHub
@@ -176,7 +185,7 @@ paste here you user story | what is visible to the user and what action they sho
 2. Then click on **use this template** and select **Create a new repository** from the drop-down. Enter the name for the repository and click **Create repository from template**.
 3. Once the repository was created, I clicked the green **gitpod** button to create a workspace in gitpod so that I could write the code for the site.
   
-#### Deloying on Github
+#### Deploying on Github
 The site was deployed to Github Pages using the following method:
 1. Go to the Github repository.
 2. Navigate to the 'settings' tab.
@@ -186,11 +195,11 @@ The site was deployed to Github Pages using the following method:
 ## Credits
 ### Special thanks: 
 **David Bowers** - for mentoring & general support and motivation and help to get brilliant ideas flowing.  
-**Marco** - for support & continuous guidence.  
+**Marco** - for support & continuous guidance.  
 **Kyle** - supportive husband by taking on my slack to allow me the time to create this project and for not letting me give up.  
 
 ### List of used resources:
-This project has been hevaily influenced by code institute learning resourses and LMS content and use of boostrap systems. 
+This project has been heavily influenced by code institute learning resources and LMS content and use of bootstrap systems. 
 Chat GPT used for generating content for the site cards.    
 
 ### Images:

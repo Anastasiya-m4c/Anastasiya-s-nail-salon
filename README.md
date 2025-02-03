@@ -108,14 +108,26 @@ I have researched fonts that are most commonly used in the beauty industry and h
 ![image](https://github.com/user-attachments/assets/8bdc41c4-6be5-4791-9b65-f84d44c34f22)
 ![image](https://github.com/user-attachments/assets/3c17d7f3-d5e8-4116-868c-5902b4e5d7b3)
 
-
 ## Features:
-Explain your features on the website,(navigation, pages, links, forms.....)
+This site features 4 pages, home, gallery and book now and a success page. All pages feature responsive design, a navbar and footer
 ### Navigation
+Features a salon logo that takes users to the home page and a menu on the right handside that includes home, services, gallery and book now pages. 
+Navbar collapses into a burger menu on small screens and user can easily tell wich page they are on as the nav bar text is highlighted. 
+![nav bar full](https://github.com/user-attachments/assets/4b54af11-559d-46f1-8598-f12380f9a0a4)
+![nav bar callpsed](https://github.com/user-attachments/assets/6859a807-01b7-41d4-98ba-ecec09691c89)
 ### Footer
-### Other features
+Footer is responsive, with text displayed parallel on bigger screens and is displayed in a column on small screens. It contains salon address, parking information, link to a map, as well as special media pages all of which open in a new tab. It also has a table featuring opening times. 
+![footer small](https://github.com/user-attachments/assets/b3552272-d3cd-45e4-bcc0-9cfd29b792cb)
+![footer full screen](https://github.com/user-attachments/assets/9ebef2d6-d3b2-472f-b0f6-a3afebc6f4ae)
+### Homepage
+Homepage has a hero image with salon name and a "book now" button as well as a section with 4 product cards describing services offered with pricing and duration as well as link to book. 
+### Gallery
+Contains 10 images that are configured to be responsive to the screen size on which they are being viewed.
+### Book now
+Features a contact form with mandatory input fields and checkboxes. Form features autocomplete on the name, email and phone number. 
+### Success page
+A simple success message with a link back to the home screen is shown to the user following a successful completion of the booking/enquiry form. 
 
-## Technologies Used
 ### Languages Used
 - HTML - To create a basic site.
 - CSS - To create custom styles and make a responsive site. 

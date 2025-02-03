@@ -169,9 +169,10 @@ Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
 User Story |  Test | Pass
----Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.).
-Each service includes pricing, duration, and any special offers. | --- 4 service tiles visible, text and images are resonsive on various screens. Images do not appear stretched and buttons redirect to the book now form | :PASS---:
-paste here you user story | what is visible to the user and what action they should perform | &check;
+---| --- | --- |
+Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.).
+Each service includes pricing, duration, and any special offers. | 4 service tiles visible, text and images are resonsive on various screens. Images do not appear stretched and buttons redirect to the book now form | PASS
+
 - and attach screenshot
 
 ## Bugs

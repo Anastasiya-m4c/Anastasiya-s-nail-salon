@@ -162,15 +162,15 @@ Important part of your README!!!
 ### Browser Compatibility
 Check compatability with different browsers
 ### Responsiveness
-![iphone SE home page cards](image.png)
-![serface pro 7 home page cards](image-1.png)
-![nest hub max home page cards](image-2.png)
-![iphone se gallery](image-5.png)
-![serface pro 7 gallery](image-4.png)
-![nest hub gallery](image-3.png)
-![iphone se booking form](image-6.png)
-![surface pro 7 booking form](image-7.png)
-![nest hub max booking from](image-8.png)
+![iphone SE home page cards](assets/readmeeimages/secard.png)
+![serface pro 7 home page cards](assets/readmeeimages/serfaceprocard.png)
+![nest hub max home page cards](assets/readmeeimages/nesthubcard.png)
+![iphone se gallery](assets/readmeeimages/segallery.png)
+![serface pro 7 gallery](assets/readmeeimages/serfaceprogallery.png)
+![nest hub gallery](assets/readmeeimages/nesthubgallery.png)
+![iphone se booking form](assets/readmeeimages/sebookingform.png)
+![surface pro 7 booking form](assets/readmeeimages/serfaceprobookingform.png)
+![nest hub max booking from](assets/readmeeimages/nesthubbookingform.png)
 
 ### Code Validation
 ![image](https://github.com/user-attachments/assets/d0f7913e-89fc-4598-ae1d-bb75de418029)

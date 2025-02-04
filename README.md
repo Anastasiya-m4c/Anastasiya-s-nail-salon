@@ -170,10 +170,15 @@ Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 Test all your user stories, you an create table 
 User Story |  Test | Pass
 ---| --- | --- |
+<<<<<<< HEAD
 Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.).
 Each service includes pricing, duration, and any special offers. | 4 service tiles visible, text and images are resonsive on various screens. Images do not appear stretched and buttons redirect to the book now form | PASS
 Users can view a contact number & email address of the salon. Users can be directed to a map to find the salon. Users can see information about parking | Footer with all required information is visible on all of the pages. Map and social media links open in the new tab and change colour when hovered over. Footer is responsive and looks good on various screen sizes. | PASS 
 Users can enter their name, email address and contact number along with a preferred method of contact. Users must have a free text message where they can leave a message or details of their enquiry for the salon. All fields must be required.From should have a submit button and be responsive so that it can be viewed on devices with various screen sizes.| Form has all the fields specified and fields are required, able to complete manually or with autocomplete. Required messages are shown and input fields are restricted to the type of character that the field is for i.e. number only for tel. Form can only be submitted once the required information is entered. Once the form is submitted, user is shown a success page. Messaging on the success page is correct and the button takes user to the home page. Booking and success page are responsive on various screen sizes.| PASS
+=======
+Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.) Each service includes pricing, duration, and any special offers. | 4 service tiles visible, text and images are resonsive on various screens. Images do not appear stretched and buttons redirect to the book now form | PASS
+Users can view a contact number & email address of the salon. Users can be directed to a map to find the salon. Users can see information about parking | Footer with all required information is visible on all of the pages. Map and social media links open in the new tab and change colour when hovered over. Footer is responsive and looks good on various screen sizes. | PASS 
+>>>>>>> refs/remotes/origin/main
 
 
 - and attach screenshot

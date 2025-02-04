@@ -193,6 +193,10 @@ Each service includes pricing, duration, and any special offers. | 4 service til
 *Cause*: Active class is in the wrong place, copy and paste error.  
 *Solution*: Added active class and aria current to correct page.  
 
+*Issue*: When viewed on extra lardge screens width is set but the content is off centre 
+*Cause*: Margin is not set 
+*Solution*: margin: 0 auto;
+
 ## Deployment
 #### Creating Repository on GitHub
 1. First make sure you are signed into [Github](https://github.com/) and go to the code institutes template, which can be found [here](https://github.com/Code-Institute-Org/gitpod-full-template).

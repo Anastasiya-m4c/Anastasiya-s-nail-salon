@@ -160,5 +160,6 @@ mark {
     }
     body {
         max-width: 1900px;
+        margin: 0 auto; /* Used chat GPT to center the body content horizontally */
     }
 } 

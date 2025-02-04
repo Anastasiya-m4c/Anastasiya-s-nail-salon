@@ -66,14 +66,14 @@ So that I can decide if I like the work and if the salon style suits my needs.
 Acceptance Criteria:
 A responsive gallery of images that can be viewed on devices with various screen sizes. 
 
-### 5. User Story: Success message!
+### 4. User Story: Success message!
 As a potential customer,
 I want To receive a confirmation that my form has been submitted,
 So that I know that my inquiry has been successful. 
 Acceptance Criteria:
 The website displays a success message with user information once the enquiry form has been submitted. 
 
-### 4. User Story: View Salon Reviews
+### 5. User Story: View Salon Reviews
 As a potential customer,
 I want to read reviews from other clients about their salon experience,
 So that I can make an informed decision before booking my appointment.
@@ -162,7 +162,16 @@ Important part of your README!!!
 ### Browser Compatibility
 Check compatability with different browsers
 ### Responsiveness
-Screenshots of the responsivness, pick few devices (from 320px top 1200px)
+![iphone SE home page cards](image.png)
+![serface pro 7 home page cards](image-1.png)
+![nest hub max home page cards](image-2.png)
+![iphone se gallery](image-5.png)
+![serface pro 7 gallery](image-4.png)
+![nest hub gallery](image-3.png)
+![iphone se booking form](image-6.png)
+![surface pro 7 booking form](image-7.png)
+![nest hub max booking from](image-8.png)
+
 ### Code Validation
 ![image](https://github.com/user-attachments/assets/d0f7913e-89fc-4598-ae1d-bb75de418029)
 
@@ -170,18 +179,12 @@ Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 Test all your user stories, you an create table 
 User Story |  Test | Pass
 ---| --- | --- |
-<<<<<<< HEAD
 Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.).
 Each service includes pricing, duration, and any special offers. | 4 service tiles visible, text and images are resonsive on various screens. Images do not appear stretched and buttons redirect to the book now form | PASS
 Users can view a contact number & email address of the salon. Users can be directed to a map to find the salon. Users can see information about parking | Footer with all required information is visible on all of the pages. Map and social media links open in the new tab and change colour when hovered over. Footer is responsive and looks good on various screen sizes. | PASS 
 Users can enter their name, email address and contact number along with a preferred method of contact. Users must have a free text message where they can leave a message or details of their enquiry for the salon. All fields must be required.From should have a submit button and be responsive so that it can be viewed on devices with various screen sizes.| Form has all the fields specified and fields are required, able to complete manually or with autocomplete. Required messages are shown and input fields are restricted to the type of character that the field is for i.e. number only for tel. Form can only be submitted once the required information is entered. Once the form is submitted, user is shown a success page. Messaging on the success page is correct and the button takes user to the home page. Booking and success page are responsive on various screen sizes.| PASS
-=======
-Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.) Each service includes pricing, duration, and any special offers. | 4 service tiles visible, text and images are resonsive on various screens. Images do not appear stretched and buttons redirect to the book now form | PASS
-Users can view a contact number & email address of the salon. Users can be directed to a map to find the salon. Users can see information about parking | Footer with all required information is visible on all of the pages. Map and social media links open in the new tab and change colour when hovered over. Footer is responsive and looks good on various screen sizes. | PASS 
->>>>>>> refs/remotes/origin/main
-
-
-- and attach screenshot
+A responsive gallery of images that can be viewed on devices with various screen sizes.|A gallery has a collection of images that are responsive on various screens, images appear good quality and not pixelated or stretched. |PASS|
+Users able to navigate the website intuitively|All links in the navbar navigate to the correct page. Clicking the logo navigates to the home page. Nav bar is responsive and collapses into a burger bar when viewed on a small device. User can easily identify the page that they are on by the highlighted text in the nav bar|PASS|
 
 ## Bugs
 

@@ -170,8 +170,9 @@ Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 Test all your user stories, you an create table 
 User Story |  Test | Pass
 ---| --- | --- |
-Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.).
-Each service includes pricing, duration, and any special offers. | 4 service tiles visible, text and images are resonsive on various screens. Images do not appear stretched and buttons redirect to the book now form | PASS
+Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.) Each service includes pricing, duration, and any special offers. | 4 service tiles visible, text and images are resonsive on various screens. Images do not appear stretched and buttons redirect to the book now form | PASS
+Users can view a contact number & email address of the salon. Users can be directed to a map to find the salon. Users can see information about parking | Footer with all required information is visible on all of the pages. Map and social media links open in the new tab and change colour when hovered over. Footer is responsive and looks good on various screen sizes. | PASS 
+
 
 - and attach screenshot
 
@@ -193,9 +194,9 @@ Each service includes pricing, duration, and any special offers. | 4 service til
 *Cause*: Active class is in the wrong place, copy and paste error.  
 *Solution*: Added active class and aria current to correct page.  
 
-*Issue*: When viewed on extra lardge screens width is set but the content is off centre 
-*Cause*: Margin is not set 
-*Solution*: margin: 0 auto;
+*Issue*: When viewed on extra lardge screens width is set but the content is off centre.  
+*Cause*: Margin is not set.  
+*Solution*: margin: 0 auto;  
 
 ## Deployment
 #### Creating Repository on GitHub

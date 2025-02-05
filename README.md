@@ -97,8 +97,8 @@ For future development, I recommend prioritizing User Stories 5 and 6, which wer
 Wireframes created using balsamic: 
 WEB VIEW  
 ![See image here](docs/readmeeimages/wreframe1.png)
-![web view wireframe image 2](docs/readmeeimages/wireframe2.png)
-APP VIEW  
+![web view wireframe image 2](docs/readmeeimages/wireframe2.png)  
+APP VIEW   
 ![app view wireframe image1](docs/readmeeimages/wireframe3.png)
 ![app view wireframe image2](docs/readmeeimages/wireframe4.png)
 
@@ -116,7 +116,7 @@ Navbar collapses into a burger menu on small screens and user can easily tell wi
 ![nav bar full](docs/readmeeimages/nav.png)
 ![nav bar callpsed](docs/readmeeimages/navcallapsed.png)
 ### Footer
-Footer is responsive, with text displayed parallel on bigger screens and is displayed in a column on small screens. It contains salon address, parking information, link to a map, as well as special media pages all of which open in a new tab. It also has a table featuring opening times. 
+Footer is responsive, with text displayed parallel on bigger screens and is displayed in a column on small screens. It contains salon address, parking information, link to a map, as well as special media pages all of which open in a new tab. It also has a table featuring opening times.  
 ![footer small](docs/readmeeimages/footersmlscreen.png)
 ![footer full screen](docs/readmeeimages/footerfullscr.png)
 ### Homepage

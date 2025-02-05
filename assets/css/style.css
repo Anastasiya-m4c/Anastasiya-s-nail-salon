@@ -61,6 +61,10 @@ mark {
 }
 
 /*services*/
+#services h2 {
+    color: #746f8e;
+}
+
 .card-text {
     min-height: 192px;
     color: #62605F;

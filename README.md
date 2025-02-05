@@ -93,10 +93,11 @@ Users can redeem loyalty rewards directly through the website when booking futur
 ### Wireframes
 Wireframes created using balsamic: 
 WEB VIEW
-![web view wireframe image 1](https://github.com/user-attachments/assets/673db412-75ae-4740-9e83-6efd3e04fac8)
-![web view wireframe image 2](https://github.com/user-attachments/assets/24eda3eb-1da5-462b-b8bb-eefb9a04796f)
+![web view wireframe image 1](docs/readmeeimages/wreframe1.png)
+![web view wireframe image 2](docs/readmeeimages/wreframe2.png)
 APP VIEW
-![app view wireframe image](https://github.com/user-attachments/assets/5ecf95ab-66d0-4268-961d-23b9fd41a3ec)
+![app view wireframe image 1](docs/readmeeimages/wreframe3.png)
+![app view wireframe image 2](docs/readmeeimages/wreframe4.png)
 
 ### Typography
 After conducting extensive research on typography trends within the beauty industry, I've carefully selected Montserrat, a modern and versatile font, as the primary typeface for this project. Montserrat is widely used in the beauty sector due to its clean lines, professional appeal, and excellent legibility across both digital and print media. This font will be imported directly from Google Fonts to ensure optimal performance and seamless integration into the design, providing a sophisticated yet approachable aesthetic for the brand.  
@@ -105,26 +106,27 @@ After conducting extensive research on typography trends within the beauty indus
 The color scheme has been thoughtfully chosen to enhance the salon's elegant aesthetic while creating a warm and inviting atmosphere. Soft, neutral tones such as creamy beige, blush pink, and subtle gray have been selected to evoke a sense of luxury and sophistication, while maintaining a welcoming and approachable vibe. This balanced palette not only complements the salon's branding but also helps to create a calm and relaxing environment for visitors, encouraging them to explore the site and book services with ease. The colors work harmoniously together, adding to the overall refined and professional look of the website.
 
 Colour scheme can be viwed via the links bellow:  
-~ Colour pallete  
-~ Contrast and acent   
-~ Buttons  
+* Colour pallete  
+* Contrast and acent 
+* Light and dark mode  
+* UI componenets  
 
-![image](https://github.com/user-attachments/assets/d9f3e43a-c592-48eb-b937-6e6dd0d53dff)
-![image](https://github.com/user-attachments/assets/04a162a6-edef-4f96-8b68-f6c92828e97e)
-![image](https://github.com/user-attachments/assets/8bdc41c4-6be5-4791-9b65-f84d44c34f22)
-![image](https://github.com/user-attachments/assets/3c17d7f3-d5e8-4116-868c-5902b4e5d7b3)
+![image](docs/readmeeimages/colourscheme1.png)
+![image](docs/readmeeimages/colourscheme2.png)
+![image](docs/readmeeimages/colourscheme3.png)
+![image](docs/readmeeimages/colourscheme4.png)
 
 ## Features:
 This site features 4 pages, home, gallery and book now and a success page. All pages feature responsive design, a navbar and footer
 ### Navigation
 Features a salon logo that takes users to the home page and a menu on the right handside that includes home, services, gallery and book now pages. 
 Navbar collapses into a burger menu on small screens and user can easily tell wich page they are on as the nav bar text is highlighted. 
-![nav bar full](https://github.com/user-attachments/assets/4b54af11-559d-46f1-8598-f12380f9a0a4)
-![nav bar callpsed](https://github.com/user-attachments/assets/6859a807-01b7-41d4-98ba-ecec09691c89)
+![nav bar full](docs/readmeeimages/nav.png)
+![nav bar callpsed](docs/readmeeimages/navcallapsed.png)
 ### Footer
 Footer is responsive, with text displayed parallel on bigger screens and is displayed in a column on small screens. It contains salon address, parking information, link to a map, as well as special media pages all of which open in a new tab. It also has a table featuring opening times. 
-![footer small](https://github.com/user-attachments/assets/b3552272-d3cd-45e4-bcc0-9cfd29b792cb)
-![footer full screen](https://github.com/user-attachments/assets/9ebef2d6-d3b2-472f-b0f6-a3afebc6f4ae)
+![footer small](docs/readmeeimages/footersmlscreen.png)
+![footer full screen](docs/readmeeimages/footerfullscr.png)
 ### Homepage
 Homepage has a hero image with salon name and a "book now" button as well as a section with 4 product cards describing services offered with pricing and duration as well as link to book. 
 ### Gallery
@@ -169,15 +171,15 @@ The site has been tested fully by viewing pages and clicking the links manually 
 Check compatability with different browsers  
 
 ### Responsiveness
-![iphone SE home page cards](assets/readmeeimages/secard.png)
-![serface pro 7 home page cards](assets/readmeeimages/serfaceprocard.png)
-![nest hub max home page cards](assets/readmeeimages/nesthubcard.png)
-![iphone se gallery](assets/readmeeimages/segallery.png)
-![serface pro 7 gallery](assets/readmeeimages/serfaceprogallery.png)
-![nest hub gallery](assets/readmeeimages/nesthubgallery.png)
-![iphone se booking form](assets/readmeeimages/sebookingform.png)
-![surface pro 7 booking form](assets/readmeeimages/serfaceprobookingform.png)
-![nest hub max booking from](assets/readmeeimages/nesthubbookingform.png)
+![iphone SE home page cards](docs/readmeeimages/secard.png)
+![serface pro 7 home page cards](docs/readmeeimages/serfaceprocard.png)
+![nest hub max home page cards](docs/readmeeimages/nesthubcard.png)
+![iphone se gallery](docs/readmeeimages/segallery.png)
+![serface pro 7 gallery](docs/readmeeimages/serfaceprogallery.png)
+![nest hub gallery](docs/readmeeimages/nesthubgallery.png)
+![iphone se booking form](docs/readmeeimages/sebookingform.png)
+![surface pro 7 booking form](docs/readmeeimages/surfaceprobookingform.png)
+![nest hub max booking from](docs/readmeeimages/nesthubbookingform.png)
 
 ### Code Validation
 ![image](https://github.com/user-attachments/assets/d0f7913e-89fc-4598-ae1d-bb75de418029)

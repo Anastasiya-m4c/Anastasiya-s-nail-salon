@@ -13,7 +13,8 @@ body {
     padding-top: 0;
     padding-bottom: 0;
     background-color: #746f8e;
-    border-radius: .25em;
+    border-bottom-right-radius: .25em;
+    border-bottom-left-radius: .25em;
     color: white;
 }
 
@@ -113,7 +114,8 @@ mark {
 #contact {
     background-color: #746f8e;
     color: white;
-    border-radius: .25em;
+    border-top-right-radius: .25em;
+    border-top-left-radius: .25em;
 }
 
 .social-media-links * {

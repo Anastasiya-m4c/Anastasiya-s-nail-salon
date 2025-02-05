@@ -33,63 +33,63 @@ View live website [HERE](https://anastasiya-m4c.github.io/Anastasiya-s-nail-salo
 ### User Stories
 
 ### 1. User Story: Browse Nail Service
-As a customer,
-I want to browse the various nail services offered by the salon,
-So that I can choose the one that best fits my needs.
-Acceptance Criteria:
-Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.).
-Each service includes pricing, duration, and any special offers.
+**As a customer,**  
+I want to browse the various nail services offered by the salon,  
+**So that I can** choose the one that best fits my needs.  
+Acceptance Criteria:  
+Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.).  
+Each service includes pricing, duration, and any special offers.  
 
 ### 2. User Story: Contact & how to find us
-As a customer,
-I want to find contact details, address and parking information about the salon,
-So that I can find the salon and contact the salon if I need to.
-Acceptance Criteria:
-Users can view a contact number & email address of the salon.
-Users can be directed to a map to find the salon. 
-Users can see information about parking. 
+**As a customer,**  
+I want to find contact details, address and parking information about the salon,  
+**So that I can** find the salon and contact the salon if I need to.  
+Acceptance Criteria:  
+Users can view a contact number & email address of the salon.  
+Users can be directed to a map to find the salon.   
+Users can see information about parking.  
 
 ### 3. User Story: Make an enquiry or book a Nail Appointment
-As a customer,
-I want to make an inquiry about a service or contact the salon about booking a nail appointment.
-So that I can receive a call back or an email regarding my enquiry. 
-Acceptance Criteria:
-Users can enter their name, email address and contact number along with a preferred method of contact. 
-Users must have a free text message where they can leave a message or details of their enquiry for the salon.  
-All fields must be required. 
-From should have a submit button and be responsive so that it can be viewed on devices with various screen sizes. 
+**As a customer,**  
+I want to make an inquiry about a service or contact the salon about booking a nail appointment.  
+**So that I can** receive a call back or an email regarding my enquiry.   
+Acceptance Criteria:  
+Users can enter their name, email address and contact number along with a preferred method of contact.  
+Users must have a free text message where they can leave a message or details of their enquiry for the salon.   
+All fields must be required.  
+From should have a submit button and be responsive so that it can be viewed on devices with various screen sizes.  
 
 ### 4. User Story: Gallery
-As a customer,
-I want to see gallery of work,
-So that I can decide if I like the work and if the salon style suits my needs.
-Acceptance Criteria:
-A responsive gallery of images that can be viewed on devices with various screen sizes. 
+**As a customer,** 
+I want to see gallery of work,  
+**So that I can** decide if I like the work and if the salon style suits my needs.  
+Acceptance Criteria:  
+A responsive gallery of images that can be viewed on devices with various screen sizes.  
 
 ### 4. User Story: Success message!
-As a potential customer,
-I want To receive a confirmation that my form has been submitted,
-So that I know that my inquiry has been successful. 
-Acceptance Criteria:
-The website displays a success message with user information once the enquiry form has been submitted. 
+**As a potential customer,** 
+I want to receive a confirmation that my form has been submitted,  
+**So that I know** that my inquiry has been successful.   
+Acceptance Criteria:  
+The website displays a success message with user information once the enquiry form has been submitted.  
 
 ### 5. User Story: View Salon Reviews
-As a potential customer,
-I want to read reviews from other clients about their salon experience,
-So that I can make an informed decision before booking my appointment.
-Acceptance Criteria:
-The website displays customer reviews and ratings for the salon.
-Reviews include feedback on service quality, staff, ambiance, etc.
-Users can filter reviews by service type or rating.
+**As a potential customer,**
+I want to read reviews from other clients about their salon experience,  
+**So that I can** make an informed decision before booking my appointment.  
+Acceptance Criteria:  
+The website displays customer reviews and ratings for the salon.  
+Reviews include feedback on service quality, staff, ambiance, etc.  
+Users can filter reviews by service type or rating.  
 
 ### 6. User Story: Sign Up for Loyalty Program
-As a regular customer,
-I want to sign up for a loyalty program,
-So that I can earn rewards and discounts for future appointments.
-Acceptance Criteria:
-Users can sign up for the loyalty program.
-The program tracks points or rewards based on visits or money spent.
-Users can redeem loyalty rewards directly through the website when booking future services.
+**As a regular customer,**  
+I want to sign up for a loyalty program,  
+**So that I can** earn rewards and discounts for future appointments.  
+Acceptance Criteria:  
+Users can sign up for the loyalty program.  
+The program tracks points or rewards based on visits or money spent.  
+Users can redeem loyalty rewards directly through the website when booking future services.  
 
 ### Wireframes
 Wireframes created using balsamic: 

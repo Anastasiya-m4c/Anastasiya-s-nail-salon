@@ -31,7 +31,6 @@ body {
     padding-top: 50px;
     padding-bottom: 50px;
     color: #484543;
-    /*include font-size(4rem);*/
 }
 
 .mark,
@@ -66,7 +65,7 @@ mark {
 }
 
 .card-title {
-    color: #a37479;
+    color: #A27E81;
 }
 
 /*booking form*/

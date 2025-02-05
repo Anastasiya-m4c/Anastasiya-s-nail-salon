@@ -90,6 +90,9 @@ Users can sign up for the loyalty program.
 The program tracks points or rewards based on visits or money spent.  
 Users can redeem loyalty rewards directly through the website when booking future services.  
 
+### Future developments
+For future development, I recommend prioritizing User Stories 5 and 6, which were identified as 'nice to have' but were not included in the scope of the current MVP. Additionally, the website would greatly benefit from the integration of a fully functional payment and booking system, as well as the implementation of a rewards scheme.
+
 ### Wireframes
 Wireframes created using balsamic: 
 WEB VIEW  
@@ -184,8 +187,7 @@ Colours have been chosen to comply with accessibility contrast standards and tes
 ![colour](docs/readmeeimages/colourscheme.png)
 ![contrast](docs/readmeeimages/contrast.png)
 
-## Bugs
-
+## Bugs  
 *Issue*: site.manifest file error in dev tools - failed to load resource: the server responded with a status of 404 ()  
 *Cause*: broken file path, needed help of a tutor to understand the error.  
 *Solution*: Updated to a relative file path.  

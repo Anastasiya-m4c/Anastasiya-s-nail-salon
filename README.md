@@ -112,12 +112,10 @@ This site features 4 pages, home, gallery and book now and a success page. All p
 ### Navigation
 Features a salon logo that takes users to the home page and a menu on the right handside that includes home, services, gallery and book now pages. 
 Navbar collapses into a burger menu on small screens and user can easily tell wich page they are on as the nav bar text is highlighted. 
-![nav bar full](docs/readmeeimages/nav.png)
-![nav bar callpsed](docs/readmeeimages/navcallapsed.png)
+
 ### Footer
 Footer is responsive, with text displayed parallel on bigger screens and is displayed in a column on small screens. It contains salon address, parking information, link to a map, as well as special media pages all of which open in a new tab. It also has a table featuring opening times.  
-![footer small](docs/readmeeimages/footersmlscreen.png)
-![footer full screen](docs/readmeeimages/footerfullscr.png)
+
 ### Homepage
 Homepage has a hero image with salon name and a "book now" button as well as a section with 4 product cards describing services offered with pricing and duration as well as link to book. 
 ### Gallery

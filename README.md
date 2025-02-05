@@ -93,7 +93,7 @@ Users can redeem loyalty rewards directly through the website when booking futur
 ### Wireframes
 Wireframes created using balsamic: 
 WEB VIEW  
-[![See image here](docs/readmeeimages/wreframe1.png)]
+![See image here](docs/readmeeimages/wreframe1.png)
 ![web view wireframe image 2](docs/readmeeimages/wireframe2.png)
 APP VIEW  
 ![app view wireframe image1](docs/readmeeimages/wireframe3.png)
@@ -103,18 +103,7 @@ APP VIEW
 After conducting extensive research on typography trends within the beauty industry, I've carefully selected Montserrat, a modern and versatile font, as the primary typeface for this project. Montserrat is widely used in the beauty sector due to its clean lines, professional appeal, and excellent legibility across both digital and print media. This font will be imported directly from Google Fonts to ensure optimal performance and seamless integration into the design, providing a sophisticated yet approachable aesthetic for the brand.  
 
 ### Colour Scheme  
-The color scheme has been thoughtfully chosen to enhance the salon's elegant aesthetic while creating a warm and inviting atmosphere. Soft, neutral tones such as creamy beige, blush pink, and subtle gray have been selected to evoke a sense of luxury and sophistication, while maintaining a welcoming and approachable vibe. This balanced palette not only complements the salon's branding but also helps to create a calm and relaxing environment for visitors, encouraging them to explore the site and book services with ease. The colors work harmoniously together, adding to the overall refined and professional look of the website.
-
-Colour scheme can be viwed via the links bellow:  
-* Colour pallete  
-* Contrast and acent 
-* Light and dark mode  
-* UI componenets  
-
-![image](docs/readmeeimages/colourscheme1.png)
-![image](docs/readmeeimages/colourscheme2.png)
-![image](docs/readmeeimages/colourscheme3.png)
-![image](docs/readmeeimages/colourscheme4.png)
+The color scheme has been thoughtfully chosen to enhance the salon's elegant aesthetic while creating a warm and inviting atmosphere. Soft, neutral tones such as creamy beige, dusty blue, and subtle gray have been selected to evoke a sense of luxury and sophistication, while maintaining a welcoming and approachable vibe. This balanced palette not only complements the salon's branding but also helps to create a calm and relaxing environment for visitors, encouraging them to explore the site and book services with ease. The colors work harmoniously together, adding to the overall refined and professional look of the website as well as meeting AAA acessibbility standards.
 
 ## Features:
 This site features 4 pages, home, gallery and book now and a success page. All pages feature responsive design, a navbar and footer
@@ -168,7 +157,7 @@ The site has been tested fully by viewing pages and clicking the links manually 
 ![Mobile success](https://github.com/user-attachments/assets/a853e3b2-246b-487c-9a5b-84594912b78a)
 
 ### Browser Compatibility
-Check compatability with different browsers  
+Manuall testing performed on safri, firefox, chrome and edge browsers. 
 
 ### Responsiveness
 ![iphone SE home page cards](docs/readmeeimages/secard.png)
@@ -219,6 +208,10 @@ Users able to navigate the website intuitively|All links in the navbar navigate 
 *Issue*: When viewed on extra lardge screens width is set but the content is off centre.  
 *Cause*: Margin is not set.  
 *Solution*: margin: 0 auto;  
+
+*Issue*: Contrast errors shown when running WAVE evaluation tool.  
+*Couse*: Accessibility contrast requirments not met by the colour palette selected for the project.  
+*Solution*: Used https://venngage.com/tools/accessible-color-palette-generator to select a new colour that meets accessibility standards. 
 
 ## Deployment
 #### Creating Repository on GitHub

@@ -4,8 +4,7 @@ Welcome Anastasiya McAvoy,
 ## Anastasiya's nail salon
 
 ### About
-Anastasiya’s Nail Salon is a newly opened small independent business that would benefit from online presence to increase visibility, showcase a gallery of work & various services offered. 
-As well as an enquiry form for existing or new customers.  
+Anastasiya’s Nail Salon is a newly established, independent business that stands to greatly benefit from a robust online presence. A well-designed website will not only enhance visibility but also provide a platform to showcase a curated gallery of stunning nail art, as well as a comprehensive list of services offered. The inclusion of an intuitive enquiry form will make it easy for both new and existing customers to get in touch, whether for inquiries or bookings. The website has been crafted with an elegant and subtle aesthetic, ensuring a sophisticated yet welcoming atmosphere. User experience has been a key focus, with an emphasis on seamless navigation to ensure that visitors feel invited and engaged from the moment they land on the site.  
 
 View live website [HERE](https://anastasiya-m4c.github.io/Anastasiya-s-nail-salon/)
 
@@ -100,9 +99,16 @@ APP VIEW
 ![app view wireframe image](https://github.com/user-attachments/assets/5ecf95ab-66d0-4268-961d-23b9fd41a3ec)
 
 ### Typography
-I have researched fonts that are most commonly used in the beauty industry and have settled on Montserrat imported from google fonts. 
+After conducting extensive research on typography trends within the beauty industry, I've carefully selected Montserrat, a modern and versatile font, as the primary typeface for this project. Montserrat is widely used in the beauty sector due to its clean lines, professional appeal, and excellent legibility across both digital and print media. This font will be imported directly from Google Fonts to ensure optimal performance and seamless integration into the design, providing a sophisticated yet approachable aesthetic for the brand.  
 
-### Colour Scheme
+### Colour Scheme  
+The color scheme has been thoughtfully chosen to enhance the salon's elegant aesthetic while creating a warm and inviting atmosphere. Soft, neutral tones such as creamy beige, blush pink, and subtle gray have been selected to evoke a sense of luxury and sophistication, while maintaining a welcoming and approachable vibe. This balanced palette not only complements the salon's branding but also helps to create a calm and relaxing environment for visitors, encouraging them to explore the site and book services with ease. The colors work harmoniously together, adding to the overall refined and professional look of the website.
+
+Colour scheme can be viwed via the links bellow:  
+~ Colour pallete  
+~ Contrast and acent   
+~ Buttons  
+
 ![image](https://github.com/user-attachments/assets/d9f3e43a-c592-48eb-b937-6e6dd0d53dff)
 ![image](https://github.com/user-attachments/assets/04a162a6-edef-4f96-8b68-f6c92828e97e)
 ![image](https://github.com/user-attachments/assets/8bdc41c4-6be5-4791-9b65-f84d44c34f22)
@@ -147,7 +153,7 @@ A simple success message with a link back to the home screen is shown to the use
 - Chat GPT - for generating site content. 
 
 ## Testing
-Important part of your README!!!
+The site has been tested fully by viewing pages and clicking the links manually in a number of different browsers as well as with a use of assisted tools like dev tools and lighthouse, code checker, wave plug in.  
 
 ### Google's Lighthouse Performance
 ![WEB home](https://github.com/user-attachments/assets/615cd8d0-ef55-465e-9e1d-b210936a9727)
@@ -160,7 +166,8 @@ Important part of your README!!!
 ![Mobile success](https://github.com/user-attachments/assets/a853e3b2-246b-487c-9a5b-84594912b78a)
 
 ### Browser Compatibility
-Check compatability with different browsers
+Check compatability with different browsers  
+
 ### Responsiveness
 ![iphone SE home page cards](assets/readmeeimages/secard.png)
 ![serface pro 7 home page cards](assets/readmeeimages/serfaceprocard.png)
@@ -184,6 +191,10 @@ Users can view a contact number & email address of the salon. Users can be direc
 Users can enter their name, email address and contact number along with a preferred method of contact. Users must have a free text message where they can leave a message or details of their enquiry for the salon. All fields must be required.From should have a submit button and be responsive so that it can be viewed on devices with various screen sizes.| Form has all the fields specified and fields are required, able to complete manually or with autocomplete. Required messages are shown and input fields are restricted to the type of character that the field is for i.e. number only for tel. Form can only be submitted once the required information is entered. Once the form is submitted, user is shown a success page. Messaging on the success page is correct and the button takes user to the home page. Booking and success page are responsive on various screen sizes.| PASS
 A responsive gallery of images that can be viewed on devices with various screen sizes.|A gallery has a collection of images that are responsive on various screens, images appear good quality and not pixelated or stretched. |PASS|
 Users able to navigate the website intuitively|All links in the navbar navigate to the correct page. Clicking the logo navigates to the home page. Nav bar is responsive and collapses into a burger bar when viewed on a small device. User can easily identify the page that they are on by the highlighted text in the nav bar|PASS|
+
+### Accessibility 
+
+
 
 ## Bugs
 

@@ -147,14 +147,10 @@ A simple success message with a link back to the home screen is shown to the use
 The site has been tested fully by viewing pages and clicking the links manually in a number of different browsers as well as with a use of assisted tools like dev tools and lighthouse, code checker, wave plug in.  
 
 ### Google's Lighthouse Performance
-![WEB home](https://github.com/user-attachments/assets/615cd8d0-ef55-465e-9e1d-b210936a9727)
-![Mobile home](https://github.com/user-attachments/assets/bbfe0947-2ef1-4d15-87ef-a6459a0866f1)
-![WEB gallery](https://github.com/user-attachments/assets/3670c4b3-d669-467d-833c-af4c8758112f)
-![Mobile gallery](https://github.com/user-attachments/assets/68513298-a27b-4ada-98b9-1d1c80514a1d)
-![WEB book now](https://github.com/user-attachments/assets/f30dd991-7dfd-4b7d-9b00-af8a7c2ba8e5)
-![Mobile book now](https://github.com/user-attachments/assets/2b7e02a4-db66-4cbd-9557-cdc1a90b739c)
-![WEB success](https://github.com/user-attachments/assets/48fd55e8-338a-4141-a63e-7937f91228f8)
-![Mobile success](https://github.com/user-attachments/assets/a853e3b2-246b-487c-9a5b-84594912b78a)
+![Home](docs/readmeeimages/home.png)
+![Gallery](docs/readmeeimages/gallery.png)
+![Booking page](docs/readmeeimages/bookingform.png)
+![Success message](docs/readmeeimages/success.png)
 
 ### Browser Compatibility
 Manuall testing performed on safri, firefox, chrome and edge browsers. 
@@ -184,8 +180,9 @@ A responsive gallery of images that can be viewed on devices with various screen
 Users able to navigate the website intuitively|All links in the navbar navigate to the correct page. Clicking the logo navigates to the home page. Nav bar is responsive and collapses into a burger bar when viewed on a small device. User can easily identify the page that they are on by the highlighted text in the nav bar|PASS|
 
 ### Accessibility 
-
-
+Colours have been chosen to comply with accessibility contrast standards and tested by using WAVE plug in on chrome. 
+![colour](docs/readmeeimages/colourscheme.png)
+![contrast](docs/readmeeimages/contrast.png)
 
 ## Bugs
 

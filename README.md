@@ -93,7 +93,7 @@ Users can redeem loyalty rewards directly through the website when booking futur
 ### Wireframes
 Wireframes created using balsamic: 
 WEB VIEW  
-![web view wireframe image 1](docs/readmeeimages/wreframe1.png)
+[![See image here](docs/readmeeimages/wreframe1.png)]
 ![web view wireframe image 2](docs/readmeeimages/wireframe2.png)
 APP VIEW  
 ![app view wireframe image1](docs/readmeeimages/wireframe3.png)

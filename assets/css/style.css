@@ -12,8 +12,9 @@ body {
 #navbar * {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #B79FAD;
+    background-color: #746f8e;
     border-radius: .25em;
+    color: white;
 }
 
 /*hero*/
@@ -30,11 +31,11 @@ body {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
-    color: #484543;
 }
 
 .mark,
 mark {
+    color: #49465a;
     background-color: rgba(213, 202, 202, 0.4);
 }
 
@@ -44,14 +45,14 @@ mark {
 }
 
 .custom_button {
-    background-color: #B79FAD;
-    color: #F7F5F5;
-    border: #A27E81;
+    background-color: #746f8e;
+    color: white;
+    border: #9991c0;
 }
 
 .custom_button:hover {
-    background-color: #A27E81;
-    color: #F7F5F5;
+    background-color: #9991c0;
+    color: white
 }
 
 /*services*/
@@ -65,7 +66,7 @@ mark {
 }
 
 .card-title {
-    color: #A27E81;
+    color: #746f8e;
 }
 
 /*booking form*/
@@ -82,8 +83,8 @@ mark {
 }
 
 .form-check-input:checked {
-    background-color: #B79FAD;
-    border-color: #A27E81;
+    background-color: #746f8e;
+    border-color: #9991c0;
 }
 
 /*success*/
@@ -106,8 +107,8 @@ mark {
 /*footer*/
 
 #contact {
-    background-color: #B79FAD;
-    color: #F7F5F5;
+    background-color: #746f8e;
+    color: white;
     border-radius: .25em;
 }
 
@@ -120,12 +121,12 @@ mark {
 }
 
 .social-media-links:hover * {
-    color: #A27E81;
+    color: #9991c0;
 }
 
 #contact .table-dark * {
     background-color: transparent;
-    border: #B79FAD;
+    border: #746f8e;
 }
 
 .map-link * {
@@ -134,7 +135,7 @@ mark {
     margin-top: 1rem;
 }
 .map-link:hover * {
-    color: #A27E81;
+    color: #9991c0;
 }
 
 /*media query large scrren*/ 

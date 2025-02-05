@@ -94,10 +94,10 @@ Users can redeem loyalty rewards directly through the website when booking futur
 Wireframes created using balsamic: 
 WEB VIEW  
 ![web view wireframe image 1](docs/readmeeimages/wreframe1.png)
-![web view wireframe image 2](docs/readmeeimages/wreframe2.png)
+![web view wireframe image 2](docs/readmeeimages/wireframe2.png)
 APP VIEW  
-![app view wireframe image 1](docs/readmeeimages/wireframe3.png)
-![app view wireframe image 2](docs/readmeeimages/wireframe4.png)
+![app view wireframe image1](docs/readmeeimages/wireframe3.png)
+![app view wireframe image2](docs/readmeeimages/wireframe4.png)
 
 ### Typography
 After conducting extensive research on typography trends within the beauty industry, I've carefully selected Montserrat, a modern and versatile font, as the primary typeface for this project. Montserrat is widely used in the beauty sector due to its clean lines, professional appeal, and excellent legibility across both digital and print media. This font will be imported directly from Google Fonts to ensure optimal performance and seamless integration into the design, providing a sophisticated yet approachable aesthetic for the brand.  

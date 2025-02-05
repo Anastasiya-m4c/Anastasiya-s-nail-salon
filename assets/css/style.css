@@ -17,6 +17,10 @@ body {
     color: white;
 }
 
+.active {
+    border-bottom: 1px solid white; /*code taken from love running lms content*/
+}
+
 /*hero*/
 #hero {
     background: url("../images/herosmall.webp") no-repeat center center/cover;

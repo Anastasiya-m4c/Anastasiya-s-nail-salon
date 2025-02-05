@@ -94,12 +94,11 @@ Users can redeem loyalty rewards directly through the website when booking futur
 For future development, I recommend prioritizing User Stories 5 and 6, which were identified as 'nice to have' but were not included in the scope of the current MVP. Additionally, the website would greatly benefit from the integration of a fully functional payment and booking system, as well as the implementation of a rewards scheme.
 
 ### Wireframes
-Wireframes created using balsamic: 
+Wireframes created using balsamic:  
 WEB VIEW  
 ![See image here](docs/readmeeimages/wreframe1.png)
 ![web view wireframe image 2](docs/readmeeimages/wireframe2.png)  
 APP VIEW   
-![app view wireframe image1](docs/readmeeimages/wireframe3.png)
 ![app view wireframe image2](docs/readmeeimages/wireframe4.png)
 
 ### Typography

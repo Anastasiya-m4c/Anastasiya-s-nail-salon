@@ -19,7 +19,7 @@ body {
 }
 
 .active {
-    border-bottom: 1px solid white; /*code taken from love running lms content*/
+    text-decoration: underline; 
 }
 
 /*hero*/

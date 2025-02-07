@@ -105,7 +105,7 @@ Wireframes created using balsamic could be viewed via the links below:
 After conducting extensive research on typography trends within the beauty industry, I've carefully selected Montserrat, a modern and versatile font, as the primary typeface for this project. Montserrat is widely used in the beauty sector due to its clean lines, professional appeal, and excellent legibility across both digital and print media. This font will be imported directly from Google Fonts to ensure optimal performance and seamless integration into the design, providing a sophisticated yet approachable aesthetic for the brand.  
 
 ### Colour Scheme  
-The color scheme has been thoughtfully chosen to enhance the salon's elegant aesthetic while creating a warm and inviting atmosphere. Soft, neutral tones such as creamy beige, dusty blue, and subtle gray have been selected to evoke a sense of luxury and sophistication, while maintaining a welcoming and approachable vibe. A pale grey logo has been incorporated in the nav bar to add a watermark effect to enhance the elegance of the site. This balanced palette not only complements the salon's branding but also helps to create a calm and relaxing environment for visitors, encouraging them to explore the site and book services with ease. The colors work harmoniously together, adding to the overall refined and professional look of the website as well as meeting AAA acessibbility standards.
+The color scheme has been thoughtfully chosen to enhance the salon's elegant aesthetic while creating a warm and inviting atmosphere. Soft, neutral tones such as creamy beige, dusty blue, and subtle gray have been selected to evoke a sense of luxury and sophistication, while maintaining a welcoming and approachable vibe. A pale gray logo has been incorporated in the nav bar to add a watermark effect to enhance the elegance of the site. This balanced palette not only complements the salon's branding but also helps to create a calm and relaxing environment for visitors, encouraging them to explore the site and book services with ease. The colors work harmoniously together, adding to the overall refined and professional look of the website as well as meeting AAA acessibility standards.
 
 ## Features:
 This site features 4 pages, home, gallery and book now and a success page. All pages feature responsive design, a navbar and footer  
@@ -152,10 +152,10 @@ The site has been tested fully by viewing pages and clicking the links manually 
 ### Google's Lighthouse Performance
 lighthouse performance has been tested on a chromebook and varies much depending on the device tested on and internet speed. Overall performance passed with no failures and showing green results especially on web some mobile results are in high amber, images have been converted to webp, optimised and resized to minimise any performance issues. Some future adjustments can be made but are outside the scope of this project and are mostly due to the imported code like bootstrap and google fonts.  
 Results for both WEB (left) and APP (rigth) can be seen via the links below.  
-[Home](docs/readmeeimages/home.png)
-[Gallery](docs/readmeeimages/gallery.png)
-[Booking page](docs/readmeeimages/bookingform.png)
-[Success message](docs/readmeeimages/success.png)
+[Home](docs/readmeeimages/home.png)  
+[Gallery](docs/readmeeimages/gallery.png)  
+[Booking page](docs/readmeeimages/bookingform.png)  
+[Success message](docs/readmeeimages/success.png)  
 
 ### Browser Compatibility
 Manuall testing performed on safri, firefox, chrome and edge browsers. As well as iOS and adroind mobile phone devices. No issues flagged. 
@@ -186,9 +186,9 @@ Users able to navigate the website intuitively|All links in the navbar navigate 
 
 ### Accessibility 
 Colours have been chosen to comply with accessibility contrast standards and tested by using WAVE plug in on chrome. 
-[Colour Scheme](docs/readmeeimages/colourscheme.png)
-[Contrast checker](docs/readmeeimages/contrast.png)
-[Wave test results](docs/readmeeimages/wavetest.png)
+[Colour Scheme](docs/readmeeimages/colourscheme.png)  
+[Contrast checker](docs/readmeeimages/contrast.png)  
+[Wave test results](docs/readmeeimages/wavetest.png)  
 
 ## Bugs  
 *Issue*: site.manifest file error in dev tools - failed to load resource: the server responded with a status of 404 ()  

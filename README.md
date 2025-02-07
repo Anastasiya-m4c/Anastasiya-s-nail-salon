@@ -29,6 +29,8 @@ View live website [HERE](https://anastasiya-m4c.github.io/Anastasiya-s-nail-salo
 6. [Deployment](#deployment)
 7. [Credits](#credits)
 
+## Design & Planning
+
 ### User Stories
 
 ### 1. User Story: Browse Nail Service
@@ -91,15 +93,13 @@ The program tracks points or rewards based on visits or money spent.
 Users can redeem loyalty rewards directly through the website when booking future services.  
 
 ### Future developments
-For future development, I recommend prioritizing User Stories 5 and 6, which were identified as 'nice to have' but were not included in the scope of the current MVP. Additionally, the website would greatly benefit from the integration of a fully functional payment and booking system, as well as the implementation of a rewards scheme.
+For future development, I recommend prioritizing User Stories 5 and 6, which were identified as 'nice to have' using MSCW methodology but were not included in the scope of the current MVP. Additionally, the website would greatly benefit from the integration of a fully functional payment and booking system, as well as the implementation of a rewards scheme.
 
 ### Wireframes
-Wireframes created using balsamic:  
-WEB VIEW  
-![See image here](docs/readmeeimages/wreframe1.png)
-![web view wireframe image 2](docs/readmeeimages/wireframe2.png)  
-APP VIEW   
-![app view wireframe image2](docs/readmeeimages/wireframe4.png)
+Wireframes created using balsamic coulbe viwed via the links below:  
+[WEB view image 1](docs/readmeeimages/wreframe1.png)
+[Web view image 2](docs/readmeeimages/wireframe2.png)  
+[APP view image 1](docs/readmeeimages/wireframe4.png)
 
 ### Typography
 After conducting extensive research on typography trends within the beauty industry, I've carefully selected Montserrat, a modern and versatile font, as the primary typeface for this project. Montserrat is widely used in the beauty sector due to its clean lines, professional appeal, and excellent legibility across both digital and print media. This font will be imported directly from Google Fonts to ensure optimal performance and seamless integration into the design, providing a sophisticated yet approachable aesthetic for the brand.  
@@ -108,7 +108,8 @@ After conducting extensive research on typography trends within the beauty indus
 The color scheme has been thoughtfully chosen to enhance the salon's elegant aesthetic while creating a warm and inviting atmosphere. Soft, neutral tones such as creamy beige, dusty blue, and subtle gray have been selected to evoke a sense of luxury and sophistication, while maintaining a welcoming and approachable vibe. This balanced palette not only complements the salon's branding but also helps to create a calm and relaxing environment for visitors, encouraging them to explore the site and book services with ease. The colors work harmoniously together, adding to the overall refined and professional look of the website as well as meeting AAA acessibbility standards.
 
 ## Features:
-This site features 4 pages, home, gallery and book now and a success page. All pages feature responsive design, a navbar and footer
+This site features 4 pages, home, gallery and book now and a success page. All pages feature responsive design, a navbar and footer  
+
 ### Navigation
 Features a salon logo that takes users to the home page and a menu on the right handside that includes home, services, gallery and book now pages. 
 Navbar collapses into a burger menu on small screens and user can easily tell wich page they are on as the nav bar text is highlighted. 
@@ -117,11 +118,14 @@ Navbar collapses into a burger menu on small screens and user can easily tell wi
 Footer is responsive, with text displayed parallel on bigger screens and is displayed in a column on small screens. It contains salon address, parking information, link to a map, as well as special media pages all of which open in a new tab. It also has a table featuring opening times.  
 
 ### Homepage
-Homepage has a hero image with salon name and a "book now" button as well as a section with 4 product cards describing services offered with pricing and duration as well as link to book. 
+Homepage has a hero image with salon name and a "book now" CTA as well as a section with 4 product cards describing services offered with pricing and duration as well as link to book.  
+
 ### Gallery
-Contains 10 images that are configured to be responsive to the screen size on which they are being viewed.
+Contains 10 images that are configured to be responsive to the screen size on which they are being viewed.  
+
 ### Book now
-Features a contact form with mandatory input fields and checkboxes. Form features autocomplete on the name, email and phone number. 
+Features a contact form with mandatory input fields and checkboxes. Form features autocomplete on the name, email and phone number.  
+
 ### Success page
 A simple success message with a link back to the home screen is shown to the user following a successful completion of the booking/enquiry form. 
 
@@ -129,7 +133,6 @@ A simple success message with a link back to the home screen is shown to the use
 - HTML - To create a basic site.
 - CSS - To create custom styles and make a responsive site. 
 - Bootstrap - For consistent styling and improved responsiveness. 
-- JavaScript - To improve the navigation bar in mobile view.
 
 ### Frameworks Libraries and Programmes Used
 - Font Awesome - for icons.
@@ -144,16 +147,18 @@ A simple success message with a link back to the home screen is shown to the use
 - Chat GPT - for generating site content. 
 
 ## Testing
-The site has been tested fully by viewing pages and clicking the links manually in a number of different browsers as well as with a use of assisted tools like dev tools and lighthouse, code checker, wave plug in.  
+The site has been tested fully by viewing pages and clicking the links manually in a number of different browsers as well as with a use of assisted tools like dev tools and lighthouse, code checker, wave plug in.
 
 ### Google's Lighthouse Performance
-![Home](docs/readmeeimages/home.png)
-![Gallery](docs/readmeeimages/gallery.png)
-![Booking page](docs/readmeeimages/bookingform.png)
-![Success message](docs/readmeeimages/success.png)
+lighthouse performance has been tested on a chromebook and varies much depending on the device tested on and internet speed. Overall performance passed with no failures and showing green results especially on web some mobile results are in high amber, images have been converted to webp, optimised and resized to minimise any performance issues. Some future adjustments can be made but are outside the scope of this project and are mostly due to the imported code like bootstrap and google fonts.  
+Results for both WEB (left) and APP (rigth) can be seen via the links below.  
+[Home](docs/readmeeimages/home.png)
+[Gallery](docs/readmeeimages/gallery.png)
+[Booking page](docs/readmeeimages/bookingform.png)
+[Success message](docs/readmeeimages/success.png)
 
 ### Browser Compatibility
-Manuall testing performed on safri, firefox, chrome and edge browsers. 
+Manuall testing performed on safri, firefox, chrome and edge browsers. As well as iOS and adroind mobile phone devices. No issues flagged. 
 
 ### Responsiveness
 ![iphone SE home page cards](docs/readmeeimages/secard.png)
@@ -171,7 +176,7 @@ Manuall testing performed on safri, firefox, chrome and edge browsers.
 
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
-User Story |  Test | Pass
+User Story |  Acceptance Criteria | Result
 ---| --- | --- |
 Users can view detailed descriptions of services (manicures, pedicures, gel nails, nail art, etc.).Each service includes pricing, duration, and any special offers. | 4 service tiles visible, text and images are resonsive on various screens. Images do not appear stretched and buttons redirect to the book now form | PASS
 Users can view a contact number & email address of the salon. Users can be directed to a map to find the salon. Users can see information about parking | Footer with all required information is visible on all of the pages. Map and social media links open in the new tab and change colour when hovered over. Footer is responsive and looks good on various screen sizes. | PASS 
@@ -181,8 +186,9 @@ Users able to navigate the website intuitively|All links in the navbar navigate 
 
 ### Accessibility 
 Colours have been chosen to comply with accessibility contrast standards and tested by using WAVE plug in on chrome. 
-![colour](docs/readmeeimages/colourscheme.png)
-![contrast](docs/readmeeimages/contrast.png)
+[Colour Scheme](docs/readmeeimages/colourscheme.png)
+[Contrast checker](docs/readmeeimages/contrast.png)
+[Wave test results](docs/readmeeimages/wavetest.png)
 
 ## Bugs  
 *Issue*: site.manifest file error in dev tools - failed to load resource: the server responded with a status of 404 ()  
@@ -208,6 +214,8 @@ Colours have been chosen to comply with accessibility contrast standards and tes
 *Issue*: Contrast errors shown when running WAVE evaluation tool.  
 *Couse*: Accessibility contrast requirments not met by the colour palette selected for the project.  
 *Solution*: Used https://venngage.com/tools/accessible-color-palette-generator to select a new colour that meets accessibility standards. 
+
+No outstanding bugs.
 
 ## Deployment
 #### Creating Repository on GitHub

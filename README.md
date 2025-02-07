@@ -29,10 +29,9 @@ View live website [HERE](https://anastasiya-m4c.github.io/Anastasiya-s-nail-salo
 6. [Deployment](#deployment)
 7. [Credits](#credits)
 
-## Design & Planning
+## Design & Planning:  
 
-### User Stories
-
+### User Stories  
 ### 1. User Story: Browse Nail Service
 **As a customer,**  
 I want to browse the various nail services offered by the salon,  
@@ -98,7 +97,7 @@ For future development, I recommend prioritizing User Stories 5 and 6, which wer
 ### Wireframes
 Wireframes created using balsamic could be viewed via the links below:  
 [WEB view image 1](docs/readmeeimages/wreframe1.png)  
-[Web view image 2](docs/readmeeimages/wireframe2.png)   
+[WEB view image 2](docs/readmeeimages/wireframe2.png)   
 [APP view image 1](docs/readmeeimages/wireframe4.png)  
 
 ### Typography
@@ -151,6 +150,7 @@ The site has been tested fully by viewing pages and clicking the links manually 
 
 ### Google's Lighthouse Performance
 lighthouse performance has been tested on a chromebook and varies much depending on the device tested on and internet speed. Overall performance passed with no failures and showing green results especially on web some mobile results are in high amber, images have been converted to webp, optimised and resized to minimise any performance issues. Some future adjustments can be made but are outside the scope of this project and are mostly due to the imported code like bootstrap and google fonts.  
+
 Results for both WEB (left) and APP (rigth) can be seen via the links below.  
 [Home](docs/readmeeimages/home.png)  
 [Gallery](docs/readmeeimages/gallery.png)  
@@ -185,7 +185,7 @@ A responsive gallery of images that can be viewed on devices with various screen
 Users able to navigate the website intuitively|All links in the navbar navigate to the correct page. Clicking the logo navigates to the home page. Nav bar is responsive and collapses into a burger bar when viewed on a small device. User can easily identify the page that they are on by the highlighted text in the nav bar|PASS|
 
 ### Accessibility 
-Colours have been chosen to comply with accessibility contrast standards and tested by using WAVE plug in on chrome. 
+Colours have been chosen to comply with accessibility contrast standards and tested by using WAVE plug in on chrome.  
 [Colour Scheme](docs/readmeeimages/colourscheme.png)  
 [Contrast checker](docs/readmeeimages/contrast.png)  
 [Wave test results](docs/readmeeimages/wavetest.png)  

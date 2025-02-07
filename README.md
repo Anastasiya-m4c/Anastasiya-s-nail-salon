@@ -96,10 +96,10 @@ Users can redeem loyalty rewards directly through the website when booking futur
 For future development, I recommend prioritizing User Stories 5 and 6, which were identified as 'nice to have' using MSCW methodology but were not included in the scope of the current MVP. Additionally, the website would greatly benefit from the integration of a fully functional payment and booking system, as well as the implementation of a rewards scheme.
 
 ### Wireframes
-Wireframes created using balsamic coulbe viwed via the links below:  
-[WEB view image 1](docs/readmeeimages/wreframe1.png)
-[Web view image 2](docs/readmeeimages/wireframe2.png)  
-[APP view image 1](docs/readmeeimages/wireframe4.png)
+Wireframes created using balsamic could be viewed via the links below:  
+[WEB view image 1](docs/readmeeimages/wreframe1.png)  
+[Web view image 2](docs/readmeeimages/wireframe2.png)   
+[APP view image 1](docs/readmeeimages/wireframe4.png)  
 
 ### Typography
 After conducting extensive research on typography trends within the beauty industry, I've carefully selected Montserrat, a modern and versatile font, as the primary typeface for this project. Montserrat is widely used in the beauty sector due to its clean lines, professional appeal, and excellent legibility across both digital and print media. This font will be imported directly from Google Fonts to ensure optimal performance and seamless integration into the design, providing a sophisticated yet approachable aesthetic for the brand.  

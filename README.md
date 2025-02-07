@@ -105,13 +105,13 @@ Wireframes created using balsamic coulbe viwed via the links below:
 After conducting extensive research on typography trends within the beauty industry, I've carefully selected Montserrat, a modern and versatile font, as the primary typeface for this project. Montserrat is widely used in the beauty sector due to its clean lines, professional appeal, and excellent legibility across both digital and print media. This font will be imported directly from Google Fonts to ensure optimal performance and seamless integration into the design, providing a sophisticated yet approachable aesthetic for the brand.  
 
 ### Colour Scheme  
-The color scheme has been thoughtfully chosen to enhance the salon's elegant aesthetic while creating a warm and inviting atmosphere. Soft, neutral tones such as creamy beige, dusty blue, and subtle gray have been selected to evoke a sense of luxury and sophistication, while maintaining a welcoming and approachable vibe. This balanced palette not only complements the salon's branding but also helps to create a calm and relaxing environment for visitors, encouraging them to explore the site and book services with ease. The colors work harmoniously together, adding to the overall refined and professional look of the website as well as meeting AAA acessibbility standards.
+The color scheme has been thoughtfully chosen to enhance the salon's elegant aesthetic while creating a warm and inviting atmosphere. Soft, neutral tones such as creamy beige, dusty blue, and subtle gray have been selected to evoke a sense of luxury and sophistication, while maintaining a welcoming and approachable vibe. A pale grey logo has been incorporated in the nav bar to add a watermark effect to enhance the elegance of the site. This balanced palette not only complements the salon's branding but also helps to create a calm and relaxing environment for visitors, encouraging them to explore the site and book services with ease. The colors work harmoniously together, adding to the overall refined and professional look of the website as well as meeting AAA acessibbility standards.
 
 ## Features:
 This site features 4 pages, home, gallery and book now and a success page. All pages feature responsive design, a navbar and footer  
 
 ### Navigation
-Features a salon logo that takes users to the home page and a menu on the right handside that includes home, services, gallery and book now pages. 
+Features a salon logo in pale grey that takes users to the home page and a menu on the right handside that includes home, services, gallery and book now pages. 
 Navbar collapses into a burger menu on small screens and user can easily tell wich page they are on as the nav bar text is highlighted. 
 
 ### Footer
@@ -124,7 +124,7 @@ Homepage has a hero image with salon name and a "book now" CTA as well as a sect
 Contains 10 images that are configured to be responsive to the screen size on which they are being viewed.  
 
 ### Book now
-Features a contact form with mandatory input fields and checkboxes. Form features autocomplete on the name, email and phone number.  
+Features a contact form with mandatory input fields and checkboxes and can not be submited without all mandatory feilds completed. Form features autocomplete on the name, email and phone number.  
 
 ### Success page
 A simple success message with a link back to the home screen is shown to the user following a successful completion of the booking/enquiry form. 

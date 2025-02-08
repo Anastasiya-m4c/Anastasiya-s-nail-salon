@@ -8,7 +8,7 @@ Anastasiya’s Nail Salon is a newly established, independent business that stan
 
 View live website [HERE](https://anastasiya-m4c.github.io/Anastasiya-s-nail-salon/)
 
-![image from am I responsive to demonstrate responsiveness on the site in all screen sizes](https://github.com/user-attachments/assets/07d44c09-295f-4439-a406-8313a54916b5)
+![image from am I responsive to demonstrate responsiveness on the site in all screen sizes](docs/readmeeimages/amiresponsive.png)
 
 ## Table Of Contents:
 1. [Design & Planning](#design-&-planning)
@@ -151,28 +151,41 @@ The site has been tested fully by viewing pages and clicking the links manually 
 ### Google's Lighthouse Performance
 lighthouse performance has been tested on a chromebook and varies much depending on the device tested on and internet speed. Overall performance passed with no failures and showing green results especially on web some mobile results are in high amber, images have been converted to webp, optimised and resized to minimise any performance issues. Some future adjustments can be made but are outside the scope of this project and are mostly due to the imported code like bootstrap and google fonts.  
 
-Results for both WEB (left) and APP (rigth) can be seen via the links below.  
-[Home](docs/readmeeimages/home.png)  
-[Gallery](docs/readmeeimages/gallery.png)  
-[Booking page](docs/readmeeimages/bookingform.png)  
-[Success message](docs/readmeeimages/success.png)  
+Results:
+[Home web](docs/readmeeimages/lhhomeweb.png)
+[Home web](docs/readmeeimages/lhhomemob.png)
+[Gallery](docs/readmeeimages/lhgalleryweb.png)
+[Gallery](docs/readmeeimages/lhgallerymob.png)
+[Booking page](docs/readmeeimages/lhbookweb.png)  
+[Booking page](docs/readmeeimages/lhbookmob.png)  
+[Success message](docs/readmeeimages/lhsuccessWEB.png)  
+[Success message](docs/readmeeimages/lhsuccessmob.png)  
 
 ### Browser Compatibility
 Manuall testing performed on safri, firefox, chrome and edge browsers. As well as iOS and adroind mobile phone devices. No issues flagged. 
 
 ### Responsiveness
-![iphone SE home page cards](docs/readmeeimages/secard.png)
-![serface pro 7 home page cards](docs/readmeeimages/serfaceprocard.png)
-![nest hub max home page cards](docs/readmeeimages/nesthubcard.png)
-![iphone se gallery](docs/readmeeimages/segallery.png)
-![serface pro 7 gallery](docs/readmeeimages/serfaceprogallery.png)
-![nest hub gallery](docs/readmeeimages/nesthubgallery.png)
-![iphone se booking form](docs/readmeeimages/sebookingform.png)
-![surface pro 7 booking form](docs/readmeeimages/surfaceprobookingform.png)
-![nest hub max booking from](docs/readmeeimages/nesthubbookingform.png)
+iPhone SE  
+[Home](docs/readmeeimages/homesproSE.png)  
+[Gallery](docs/readmeeimages/gallerySE.png)  
+[Book now](docs/readmeeimages/booknowSE.png)  
+
+Serface pro 7    
+[Home](docs/readmeeimages/homespro7.png)  
+[Gallery](docs/readmeeimages/galleryspro7.png)  
+[Book now](docs/readmeeimages/booknowspro7.png)  
+
+Nest hub MAX   
+[Home](docs/readmeeimages/homespronesthmax.png)  
+[Gallery](docs/readmeeimages/gallerynesthmax.png)  
+[Book now](docs/readmeeimages/booknownesthmax.png)  
 
 ### Code Validation
-![image](https://github.com/user-attachments/assets/d0f7913e-89fc-4598-ae1d-bb75de418029)
+Validation completed vith no errors.  
+[Home](docs/readmeeimages/homevalidate.png)  
+[Gallery](docs/readmeeimages/galleryvalidate.png)  
+[Book now](docs/readmeeimages/bookvallidate.png)  
+[Success](docs/readmeeimages/successvalidate.png)  
 
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
@@ -188,7 +201,11 @@ Users able to navigate the website intuitively|All links in the navbar navigate 
 Colours have been chosen to comply with accessibility contrast standards and tested by using WAVE plug in on chrome.  
 [Colour Scheme](docs/readmeeimages/colourscheme.png)  
 [Contrast checker](docs/readmeeimages/contrast.png)  
-[Wave test results](docs/readmeeimages/wavetest.png)  
+
+Accessibility tested via Wave plug in  
+[Home](docs/readmeeimages/wavehome.png)  
+[Gallery](docs/readmeeimages/wavegallery.png)  
+[Bookin now](docs/readmeeimages/wavebook.png)  
 
 ## Bugs  
 *Issue*: site.manifest file error in dev tools - failed to load resource: the server responded with a status of 404 ()  

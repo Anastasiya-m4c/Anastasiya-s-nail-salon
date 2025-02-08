@@ -151,32 +151,32 @@ The site has been tested fully by viewing pages and clicking the links manually 
 ### Google's Lighthouse Performance
 lighthouse performance has been tested on a chromebook and varies much depending on the device tested on and internet speed. Overall performance passed with no failures and showing green results especially on web some mobile results are in high amber, images have been converted to webp, optimised and resized to minimise any performance issues. Some future adjustments can be made but are outside the scope of this project and are mostly due to the imported code like bootstrap and google fonts.  
 
-Results:
-[Home web](docs/readmeeimages/lhhomeweb.png)
-[Home web](docs/readmeeimages/lhhomemob.png)
-[Gallery](docs/readmeeimages/lhgalleryweb.png)
-[Gallery](docs/readmeeimages/lhgallerymob.png)
-[Booking page](docs/readmeeimages/lhbookweb.png)  
-[Booking page](docs/readmeeimages/lhbookmob.png)  
-[Success message](docs/readmeeimages/lhsuccessWEB.png)  
-[Success message](docs/readmeeimages/lhsuccessmob.png)  
+Results:  
+[Home web](docs/readmeeimages/lhhomeweb.png)  
+[Home mobile](docs/readmeeimages/lhhomemob.png)  
+[Gallery web](docs/readmeeimages/lhgalleryweb.png)  
+[Gallery mobile](docs/readmeeimages/lhgallerymob.png)  
+[Bookin now web](docs/readmeeimages/lhbookweb.png)  
+[Book now mobile](docs/readmeeimages/lhbookmob.png)  
+[Success message web](docs/readmeeimages/lhsuccessWEB.png)  
+[Success message mobile](docs/readmeeimages/lhsuccessmob.png)  
 
 ### Browser Compatibility
 Manuall testing performed on safri, firefox, chrome and edge browsers. As well as iOS and adroind mobile phone devices. No issues flagged. 
 
 ### Responsiveness
-iPhone SE  
+iPhone SE:   
 [Home](docs/readmeeimages/homesproSE.png)  
 [Gallery](docs/readmeeimages/gallerySE.png)  
 [Book now](docs/readmeeimages/booknowSE.png)  
 
-Serface pro 7    
+Serface pro 7:    
 [Home](docs/readmeeimages/homespro7.png)  
 [Gallery](docs/readmeeimages/galleryspro7.png)  
 [Book now](docs/readmeeimages/booknowspro7.png)  
 
-Nest hub MAX   
-[Home](docs/readmeeimages/homespronesthmax.png)  
+Nest hub MAX:   
+[Home](docs/readmeeimages/homenesthmax.png)  
 [Gallery](docs/readmeeimages/gallerynesthmax.png)  
 [Book now](docs/readmeeimages/booknownesthmax.png)  
 
@@ -199,10 +199,12 @@ Users able to navigate the website intuitively|All links in the navbar navigate 
 
 ### Accessibility 
 Colours have been chosen to comply with accessibility contrast standards and tested by using WAVE plug in on chrome.  
+
+Colour & contrast:  
 [Colour Scheme](docs/readmeeimages/colourscheme.png)  
 [Contrast checker](docs/readmeeimages/contrast.png)  
 
-Accessibility tested via Wave plug in  
+WAVE test results:  
 [Home](docs/readmeeimages/wavehome.png)  
 [Gallery](docs/readmeeimages/wavegallery.png)  
 [Bookin now](docs/readmeeimages/wavebook.png)  

@@ -1,16 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
-
-:root {
-    --blue: #4d5775;
-    --backcol: #d9d2c7;
-    --pink: #f0acb5;
-    --hover: #ead9da;
-}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-    background-color: var(--pink);
-    font-family: 'Poppins', sans-serif;
-    color: black;
+    background-color: #F7F5F5;
+    font-family: "Montserrat", sans-serif;
+    color: #62605F;
     display: flex;
     flex-direction: column;
 }
@@ -23,31 +16,31 @@ h1 {
 #navbar * {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: var(--blue);
+    background-color: #746f8e;
     border-bottom-right-radius: .25em;
     border-bottom-left-radius: .25em;
-    color: var(--pink);
+    color: white;
 }
 
 .active {
     text-decoration: underline; 
 }
 
-
-/*hero
+/*hero*/
 #hero {
-    background: url("/assets/images/mum\ .jpeg") no-repeat center center/cover;
+    background: url("../images/herosmall.webp") no-repeat center center/cover;
     position: relative;
     height: 500px;
     width: 100%;
     opacity: 0.7;
-} 
+}
+
 .salon_name {
     width: auto;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
-}*/
+}
 
 .mark,
 mark {
@@ -61,19 +54,19 @@ mark {
 }
 
 .custom_button {
-    background-color: var(--pink);
+    background-color: #746f8e;
     color: white;
-    border: var(--pink);
+    border: #9991c0;
 }
 
 .custom_button:hover {
-    background-color: var(--hover);
+    background-color: #9991c0;
     color: white
 }
 
 /*services*/
 #services h2 {
-    color: #f0acb5;
+    color: #746f8e;
 }
 
 .card-text {
@@ -86,7 +79,7 @@ mark {
 }
 
 .card-title {
-    color: var(--blue);
+    color: #746f8e;
 }
 
 /*booking form*/
